@@ -1,0 +1,3570 @@
+[
+    {
+        "wasteCode": "01 01 01",
+        "wasteDescription": "wastes from mineral metalliferous excavation"
+    },
+    {
+        "wasteCode": "01 01 02",
+        "wasteDescription": "wastes from mineral non-metalliferous excavation"
+    },
+    {
+        "wasteCode": "01 03 04",
+        "wasteDescription": "acid-generating tailings from processing of sulphide ore"
+    },
+    {
+        "wasteCode": "01 03 05",
+        "wasteDescription": "other tailings containing hazardous substances"
+    },
+    {
+        "wasteCode": "01 03 06",
+        "wasteDescription": "tailings other than those mentioned in 01 03 04 and 01 03 05"
+    },
+    {
+        "wasteCode": "01 03 07",
+        "wasteDescription": "other wastes containing hazardous substances from physical and chemical processing of metalliferous minerals"
+    },
+    {
+        "wasteCode": "01 03 08",
+        "wasteDescription": "dusty and powdery wastes other than those mentioned in 01 03 07"
+    },
+    {
+        "wasteCode": "01 03 09",
+        "wasteDescription": "red mud from alumina production other than the wastes mentioned in 01 03 10"
+    },
+    {
+        "wasteCode": "01 03 10",
+        "wasteDescription": "red mud from alumina production containing hazardous substances other than the wastes mentioned in 01 03 07"
+    },
+    {
+        "wasteCode": "01 03 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "01 04 07",
+        "wasteDescription": "wastes containing hazardous substances from physical and chemical processing of non-metalliferous minerals"
+    },
+    {
+        "wasteCode": "01 04 08",
+        "wasteDescription": "waste gravel and crushed rocks other than those mentioned in 01 04 07"
+    },
+    {
+        "wasteCode": "01 04 09",
+        "wasteDescription": "waste sand and clays"
+    },
+    {
+        "wasteCode": "01 04 10",
+        "wasteDescription": "dusty and powdery wastes other than those mentioned in 01 04 07"
+    },
+    {
+        "wasteCode": "01 04 11",
+        "wasteDescription": "wastes from potash and rock salt processing other than those mentioned in 01 04 07"
+    },
+    {
+        "wasteCode": "01 04 12",
+        "wasteDescription": "tailings and other wastes from washing and cleaning of minerals other than those mentioned in 01 04 07 and 01 04 11"
+    },
+    {
+        "wasteCode": "01 04 13",
+        "wasteDescription": "wastes from stone cutting and sawing other than those mentioned in 01 04 07"
+    },
+    {
+        "wasteCode": "01 04 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "01 05 04",
+        "wasteDescription": "freshwater drilling muds and wastes"
+    },
+    {
+        "wasteCode": "01 05 05",
+        "wasteDescription": "oil-containing drilling muds and wastes"
+    },
+    {
+        "wasteCode": "01 05 06",
+        "wasteDescription": "drilling muds and other drilling wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "01 05 07",
+        "wasteDescription": "barite-containing drilling muds and wastes other than those mentioned in 01 05 05 and 01 05 06"
+    },
+    {
+        "wasteCode": "01 05 08",
+        "wasteDescription": "chloride-containing drilling muds and wastes other than those mentioned in 01 05 05 and 01 05 06"
+    },
+    {
+        "wasteCode": "01 05 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "02 01 01",
+        "wasteDescription": "sludges from washing and cleaning"
+    },
+    {
+        "wasteCode": "02 01 02",
+        "wasteDescription": "animal-tissue waste"
+    },
+    {
+        "wasteCode": "02 01 03",
+        "wasteDescription": "plant-tissue waste"
+    },
+    {
+        "wasteCode": "02 01 04 FISHGR",
+        "wasteDescription": "Waste plastic fishing gear"
+    },
+    {
+        "wasteCode": "02 01 04",
+        "wasteDescription": "waste plastics (except packaging)"
+    },
+    {
+        "wasteCode": "02 01 06",
+        "wasteDescription": "animal faeces, urine and manure (including spoiled straw), effluent, collected separately and treated off-site"
+    },
+    {
+        "wasteCode": "02 01 07",
+        "wasteDescription": "wastes from forestry"
+    },
+    {
+        "wasteCode": "02 01 08",
+        "wasteDescription": "agrochemical waste containing hazardous substances"
+    },
+    {
+        "wasteCode": "02 01 09",
+        "wasteDescription": "agrochemical waste other than those mentioned in 02 01 08"
+    },
+    {
+        "wasteCode": "02 01 10 FISHGR",
+        "wasteDescription": "Waste metal fishing gear"
+    },
+    {
+        "wasteCode": "02 01 10",
+        "wasteDescription": "waste metal"
+    },
+    {
+        "wasteCode": "02 01 99 FISHGR",
+        "wasteDescription": "waste fishing gear other than plastic or metal"
+    },
+    {
+        "wasteCode": "02 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "02 02 01",
+        "wasteDescription": "sludges from washing and cleaning"
+    },
+    {
+        "wasteCode": "02 02 02",
+        "wasteDescription": "animal-tissue waste"
+    },
+    {
+        "wasteCode": "02 02 03",
+        "wasteDescription": "materials unsuitable for consumption or processing"
+    },
+    {
+        "wasteCode": "02 02 04",
+        "wasteDescription": "sludges from on-site effluent treatment"
+    },
+    {
+        "wasteCode": "02 01 99",
+        "wasteDescription": "Waste fishing gear other"
+    },
+    {
+        "wasteCode": "02 02 99",
+        "wasteDescription": "than plastic or metal"
+    },
+    {
+        "wasteCode": "02 03 01",
+        "wasteDescription": "sludges from washing, cleaning, peeling, centrifuging and separation"
+    },
+    {
+        "wasteCode": "02 03 02",
+        "wasteDescription": "wastes from preserving agents"
+    },
+    {
+        "wasteCode": "02 03 03",
+        "wasteDescription": "wastes from solvent extraction"
+    },
+    {
+        "wasteCode": "02 03 04",
+        "wasteDescription": "materials unsuitable for consumption or processing"
+    },
+    {
+        "wasteCode": "02 03 05",
+        "wasteDescription": "sludges from on-site effluent treatment"
+    },
+    {
+        "wasteCode": "02 03 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "02 04 01",
+        "wasteDescription": "soil from cleaning and washing beet"
+    },
+    {
+        "wasteCode": "02 04 02",
+        "wasteDescription": "off-specification calcium carbonate"
+    },
+    {
+        "wasteCode": "02 04 03",
+        "wasteDescription": "sludges from on-site effluent treatment"
+    },
+    {
+        "wasteCode": "02 04 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "02 05 01",
+        "wasteDescription": "materials unsuitable for consumption or processing"
+    },
+    {
+        "wasteCode": "02 05 02",
+        "wasteDescription": "sludges from on-site effluent treatment"
+    },
+    {
+        "wasteCode": "02 05 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "02 06 01",
+        "wasteDescription": "materials unsuitable for consumption or processing"
+    },
+    {
+        "wasteCode": "02 06 02",
+        "wasteDescription": "wastes from preserving agents"
+    },
+    {
+        "wasteCode": "02 06 03",
+        "wasteDescription": "sludges from on-site effluent treatment"
+    },
+    {
+        "wasteCode": "02 06 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "02 07 01",
+        "wasteDescription": "wastes from washing, cleaning and mechanical reduction of raw materials"
+    },
+    {
+        "wasteCode": "02 07 02",
+        "wasteDescription": "wastes from spirits distillation"
+    },
+    {
+        "wasteCode": "02 07 03",
+        "wasteDescription": "wastes from chemical treatment"
+    },
+    {
+        "wasteCode": "02 07 04",
+        "wasteDescription": "materials unsuitable for consumption or processing"
+    },
+    {
+        "wasteCode": "02 07 05",
+        "wasteDescription": "sludges from on-site effluent treatment"
+    },
+    {
+        "wasteCode": "02 07 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "03 01 01",
+        "wasteDescription": "waste bark and cork"
+    },
+    {
+        "wasteCode": "03 01 04",
+        "wasteDescription": "sawdust, shavings, cuttings, wood, particle board and veneer containing hazardous substances"
+    },
+    {
+        "wasteCode": "03 01 05",
+        "wasteDescription": "sawdust, shavings, cuttings, wood, particle board and veneer other than those mentioned in 03 01 04"
+    },
+    {
+        "wasteCode": "03 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "03 02 01",
+        "wasteDescription": "non-halogenated organic wood preservatives"
+    },
+    {
+        "wasteCode": "03 02 02",
+        "wasteDescription": "organochlorinated wood preservatives"
+    },
+    {
+        "wasteCode": "03 02 03",
+        "wasteDescription": "organometallic wood preservatives"
+    },
+    {
+        "wasteCode": "03 02 04",
+        "wasteDescription": "inorganic wood preservatives"
+    },
+    {
+        "wasteCode": "03 02 05",
+        "wasteDescription": "other wood preservatives containing hazardous substances"
+    },
+    {
+        "wasteCode": "03 02 99",
+        "wasteDescription": "wood preservatives not otherwise specified"
+    },
+    {
+        "wasteCode": "03 03 01",
+        "wasteDescription": "waste bark and wood"
+    },
+    {
+        "wasteCode": "03 03 02",
+        "wasteDescription": "green liquor sludge (from recovery of cooking liquor)"
+    },
+    {
+        "wasteCode": "03 03 05",
+        "wasteDescription": "de-inking sludges from paper recycling"
+    },
+    {
+        "wasteCode": "03 03 07",
+        "wasteDescription": "mechanically separated rejects from pulping of waste paper and cardboard"
+    },
+    {
+        "wasteCode": "03 03 08",
+        "wasteDescription": "wastes from sorting of paper and cardboard destined for recycling"
+    },
+    {
+        "wasteCode": "03 03 09",
+        "wasteDescription": "lime mud waste"
+    },
+    {
+        "wasteCode": "03 03 10",
+        "wasteDescription": "fibre rejects, fibre-, filler- and coating-sludges from mechanical separation"
+    },
+    {
+        "wasteCode": "03 03 11",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 03 03 10"
+    },
+    {
+        "wasteCode": "03 03 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "04 01 01",
+        "wasteDescription": "fleshings and lime split wastes"
+    },
+    {
+        "wasteCode": "04 01 02",
+        "wasteDescription": "liming waste"
+    },
+    {
+        "wasteCode": "04 01 03",
+        "wasteDescription": "degreasing wastes containing solvents without a liquid phase"
+    },
+    {
+        "wasteCode": "04 01 04",
+        "wasteDescription": "tanning liquor containing chromium"
+    },
+    {
+        "wasteCode": "04 01 05",
+        "wasteDescription": "tanning liquor free of chromium"
+    },
+    {
+        "wasteCode": "04 01 06",
+        "wasteDescription": "sludges, in particular from on-site effluent treatment containing chromium"
+    },
+    {
+        "wasteCode": "04 01 07",
+        "wasteDescription": "sludges, in particular from on-site effluent treatment free of chromium"
+    },
+    {
+        "wasteCode": "04 01 08",
+        "wasteDescription": "waste tanned leather (blue sheetings, shavings, cuttings, buffing dust) containing chromium"
+    },
+    {
+        "wasteCode": "04 01 09",
+        "wasteDescription": "wastes from dressing and finishing"
+    },
+    {
+        "wasteCode": "04 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "04 02 09",
+        "wasteDescription": "wastes from composite materials (impregnated textile, elastomer, plastomer)"
+    },
+    {
+        "wasteCode": "04 02 10",
+        "wasteDescription": "organic matter from natural products (for example grease, wax)"
+    },
+    {
+        "wasteCode": "04 02 14",
+        "wasteDescription": "wastes from finishing containing organic solvents"
+    },
+    {
+        "wasteCode": "04 02 15",
+        "wasteDescription": "wastes from finishing other than those mentioned in 04 02 14"
+    },
+    {
+        "wasteCode": "04 02 16",
+        "wasteDescription": "dyestuffs and pigments containing hazardous substances"
+    },
+    {
+        "wasteCode": "04 02 17",
+        "wasteDescription": "dyestuffs and pigments other than those mentioned in 04 02 16"
+    },
+    {
+        "wasteCode": "04 02 19",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "04 02 20",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 04 02 19"
+    },
+    {
+        "wasteCode": "04 02 21",
+        "wasteDescription": "wastes from unprocessed textile fibres"
+    },
+    {
+        "wasteCode": "04 02 22",
+        "wasteDescription": "wastes from processed textile fibres"
+    },
+    {
+        "wasteCode": "04 02 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "05 01 02",
+        "wasteDescription": "desalter sludges"
+    },
+    {
+        "wasteCode": "05 01 03",
+        "wasteDescription": "tank bottom sludges"
+    },
+    {
+        "wasteCode": "05 01 04",
+        "wasteDescription": "acid alkyl sludges"
+    },
+    {
+        "wasteCode": "05 01 05",
+        "wasteDescription": "oil spills"
+    },
+    {
+        "wasteCode": "05 01 06",
+        "wasteDescription": "oily sludges from maintenance operations of the plant or equipment"
+    },
+    {
+        "wasteCode": "05 01 07",
+        "wasteDescription": "acid tars"
+    },
+    {
+        "wasteCode": "05 01 08",
+        "wasteDescription": "other tars"
+    },
+    {
+        "wasteCode": "05 01 09",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "05 01 10",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 05 01 09"
+    },
+    {
+        "wasteCode": "05 01 11",
+        "wasteDescription": "wastes from cleaning of fuels with bases"
+    },
+    {
+        "wasteCode": "05 01 12",
+        "wasteDescription": "oil containing acids"
+    },
+    {
+        "wasteCode": "05 01 13",
+        "wasteDescription": "boiler feedwater sludges"
+    },
+    {
+        "wasteCode": "05 01 14",
+        "wasteDescription": "wastes from cooling columns"
+    },
+    {
+        "wasteCode": "05 01 15",
+        "wasteDescription": "spent filter clays"
+    },
+    {
+        "wasteCode": "05 01 16",
+        "wasteDescription": "sulphur-containing wastes from petroleum desulphurisation"
+    },
+    {
+        "wasteCode": "05 01 17",
+        "wasteDescription": "Bitumen"
+    },
+    {
+        "wasteCode": "05 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "05 06 01",
+        "wasteDescription": "acid tars"
+    },
+    {
+        "wasteCode": "other tars",
+        "wasteDescription": "other tars"
+    },
+    {
+        "wasteCode": "05 06 04",
+        "wasteDescription": "waste from cooling columns"
+    },
+    {
+        "wasteCode": "05 06 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "05 07 01",
+        "wasteDescription": "wastes containing mercury"
+    },
+    {
+        "wasteCode": "05 07 02",
+        "wasteDescription": "wastes containing sulphur"
+    },
+    {
+        "wasteCode": "05 07 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "06 01 01",
+        "wasteDescription": "sulphuric acid and sulphurous acid"
+    },
+    {
+        "wasteCode": "06 01 02",
+        "wasteDescription": "hydrochloric acid"
+    },
+    {
+        "wasteCode": "06 01 03",
+        "wasteDescription": "hydrofluoric acid"
+    },
+    {
+        "wasteCode": "06 01 04",
+        "wasteDescription": "phosphoric and phosphorous acid"
+    },
+    {
+        "wasteCode": "06 01 05",
+        "wasteDescription": "nitric acid and nitrous acid"
+    },
+    {
+        "wasteCode": "06 01 06",
+        "wasteDescription": "other acids"
+    },
+    {
+        "wasteCode": "06 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "06 02 01",
+        "wasteDescription": "calcium hydroxide"
+    },
+    {
+        "wasteCode": "06 02 03",
+        "wasteDescription": "ammonium hydroxide"
+    },
+    {
+        "wasteCode": "06 02 04",
+        "wasteDescription": "sodium and potassium hydroxide"
+    },
+    {
+        "wasteCode": "06 02 05",
+        "wasteDescription": "other bases"
+    },
+    {
+        "wasteCode": "06 02 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "06 03 11",
+        "wasteDescription": "solid salts and solutions containing cyanides"
+    },
+    {
+        "wasteCode": "06 03 13",
+        "wasteDescription": "solid salts and solutions containing heavy metals"
+    },
+    {
+        "wasteCode": "06 03 14",
+        "wasteDescription": "solid salts and solutions other than those mentioned in 06 03 11 and 06 03 13"
+    },
+    {
+        "wasteCode": "06 03 15",
+        "wasteDescription": "metallic oxides containing heavy metals"
+    },
+    {
+        "wasteCode": "06 03 16",
+        "wasteDescription": "metallic oxides other than those mentioned in 06 03 15"
+    },
+    {
+        "wasteCode": "06 03 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "06 04 03",
+        "wasteDescription": "wastes containing arsenic"
+    },
+    {
+        "wasteCode": "06 04 04",
+        "wasteDescription": "wastes containing mercury"
+    },
+    {
+        "wasteCode": "06 04 05",
+        "wasteDescription": "wastes containing other heavy metals"
+    },
+    {
+        "wasteCode": "06 04 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "06 05 02",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "06 05 03",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 06 05 02"
+    },
+    {
+        "wasteCode": "06 06 02",
+        "wasteDescription": "wastes containing hazardous sulphides"
+    },
+    {
+        "wasteCode": "06 06 03",
+        "wasteDescription": "wastes containing sulphides other than those mentioned in 06 06 02"
+    },
+    {
+        "wasteCode": "06 06 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "06 07 01",
+        "wasteDescription": "wastes containing asbestos from electrolysis"
+    },
+    {
+        "wasteCode": "06 07 02",
+        "wasteDescription": "activated carbon from chlorine production"
+    },
+    {
+        "wasteCode": "06 07 03",
+        "wasteDescription": "barium sulphate sludge containing mercury"
+    },
+    {
+        "wasteCode": "06 07 04",
+        "wasteDescription": "solutions and acids, for example contact acid"
+    },
+    {
+        "wasteCode": "06 07 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "06 08 02",
+        "wasteDescription": "wastes containing hazardous chlorosilanes"
+    },
+    {
+        "wasteCode": "06 08 99",
+        "wasteDescription": "waste not otherwise specified"
+    },
+    {
+        "wasteCode": "06 09 02",
+        "wasteDescription": "phosphorous slag"
+    },
+    {
+        "wasteCode": "06 09 03",
+        "wasteDescription": "calcium-based reaction wastes containing or contaminated with hazardous substances"
+    },
+    {
+        "wasteCode": "06 09 04",
+        "wasteDescription": "calcium-based reaction wastes other than those mentioned in 06 09 03"
+    },
+    {
+        "wasteCode": "06 09 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "06 10 02",
+        "wasteDescription": "wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "06 10 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "06 11 01",
+        "wasteDescription": "calcium-based reaction wastes from titanium dioxide production"
+    },
+    {
+        "wasteCode": "06 11 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "06 13 01",
+        "wasteDescription": "inorganic plant protection products, wood-preserving agents and other biocides."
+    },
+    {
+        "wasteCode": "06 13 02",
+        "wasteDescription": "spent activated carbon (except 06 07 02)"
+    },
+    {
+        "wasteCode": "06 13 03",
+        "wasteDescription": "carbon black"
+    },
+    {
+        "wasteCode": "06 13 04",
+        "wasteDescription": "wastes from asbestos processing"
+    },
+    {
+        "wasteCode": "06 13 05",
+        "wasteDescription": "Soot"
+    },
+    {
+        "wasteCode": "06 13 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "07 01 01",
+        "wasteDescription": "aqueous washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 01 03",
+        "wasteDescription": "organic halogenated solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 01 04",
+        "wasteDescription": "other organic solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 01 07",
+        "wasteDescription": "halogenated still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 01 08",
+        "wasteDescription": "other still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 01 09",
+        "wasteDescription": "halogenated filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 01 10",
+        "wasteDescription": "other filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 01 11",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "07 01 12",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 07 01 11"
+    },
+    {
+        "wasteCode": "07 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "07 02 01",
+        "wasteDescription": "aqueous washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 02 03",
+        "wasteDescription": "organic halogenated solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 02 04",
+        "wasteDescription": "other organic solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 02 07",
+        "wasteDescription": "halogenated still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 02 08",
+        "wasteDescription": "other still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 02 09",
+        "wasteDescription": "halogenated filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 02 10",
+        "wasteDescription": "other filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 02 11",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "07 02 12",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 07 02 11"
+    },
+    {
+        "wasteCode": "07 02 13",
+        "wasteDescription": "waste plastic"
+    },
+    {
+        "wasteCode": "07 02 14",
+        "wasteDescription": "wastes from additives containing hazardous substances"
+    },
+    {
+        "wasteCode": "07 02 15",
+        "wasteDescription": "wastes from additives other than those mentioned in 07 02 14"
+    },
+    {
+        "wasteCode": "07 02 16",
+        "wasteDescription": "wastes containing hazardous silicones"
+    },
+    {
+        "wasteCode": "07 02 17",
+        "wasteDescription": "wastes containing silicones other than those mentioned in 07 02 16"
+    },
+    {
+        "wasteCode": "07 02 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "07 03 01",
+        "wasteDescription": "aqueous washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 03 03",
+        "wasteDescription": "organic halogenated solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 03 04",
+        "wasteDescription": "other organic solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 03 07",
+        "wasteDescription": "halogenated still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 03 08",
+        "wasteDescription": "other still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 03 09",
+        "wasteDescription": "halogenated filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 03 10",
+        "wasteDescription": "other filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 03 11",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "07 03 12",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 07 03 11"
+    },
+    {
+        "wasteCode": "07 03 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "07 04 01",
+        "wasteDescription": "07 04 01 aqueous washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 04 03",
+        "wasteDescription": "organic halogenated solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 04 04",
+        "wasteDescription": "other organic solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 04 07",
+        "wasteDescription": "halogenated still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 04 08",
+        "wasteDescription": "other still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 04 09",
+        "wasteDescription": "halogenated filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 04 10",
+        "wasteDescription": "other filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 04 11",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "07 04 12",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 07 04 11"
+    },
+    {
+        "wasteCode": "07 04 13",
+        "wasteDescription": "solid wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "07 04 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "07 05 01",
+        "wasteDescription": "aqueous washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 05 03",
+        "wasteDescription": "organic halogenated solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 05 04",
+        "wasteDescription": "other organic solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 05 07",
+        "wasteDescription": "halogenated still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 05 08",
+        "wasteDescription": "other still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 05 09",
+        "wasteDescription": "halogenated filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 05 10",
+        "wasteDescription": "other filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 05 11",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "07 05 12",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 07 05 11"
+    },
+    {
+        "wasteCode": "07 05 13",
+        "wasteDescription": "solid wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "07 05 14",
+        "wasteDescription": "solid wastes other than those mentioned in 07 05 13"
+    },
+    {
+        "wasteCode": "07 05 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "07 06 01",
+        "wasteDescription": "aqueous washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 06 03",
+        "wasteDescription": "organic halogenated solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 06 04",
+        "wasteDescription": "other organic solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 06 07",
+        "wasteDescription": "halogenated still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 06 08",
+        "wasteDescription": "other still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 06 09",
+        "wasteDescription": "halogenated filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 06 10",
+        "wasteDescription": "other filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 06 11",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "07 06 12",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 07 06 11"
+    },
+    {
+        "wasteCode": "07 06 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "07 07 01",
+        "wasteDescription": "aqueous washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 07 03",
+        "wasteDescription": "organic halogenated solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 07 04",
+        "wasteDescription": "other organic solvents, washing liquids and mother liquors"
+    },
+    {
+        "wasteCode": "07 07 07",
+        "wasteDescription": "halogenated still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 07 08",
+        "wasteDescription": "other still bottoms and reaction residues"
+    },
+    {
+        "wasteCode": "07 07 09",
+        "wasteDescription": "halogenated filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 07 10",
+        "wasteDescription": "other filter cakes and spent absorbents"
+    },
+    {
+        "wasteCode": "07 07 11",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "07 07 12",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 07 07 11"
+    },
+    {
+        "wasteCode": "07 07 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "08 01 11",
+        "wasteDescription": "waste paint and varnish containing organic solvents or other hazardous substances"
+    },
+    {
+        "wasteCode": "08 01 12",
+        "wasteDescription": "waste paint and varnish other than those mentioned in 08 01 11"
+    },
+    {
+        "wasteCode": "08 01 13",
+        "wasteDescription": "sludges from paint or varnish containing organic solvents or other hazardous substances"
+    },
+    {
+        "wasteCode": "08 01 14",
+        "wasteDescription": "sludges from paint or varnish other than those mentioned in 08 01 13"
+    },
+    {
+        "wasteCode": "08 01 15",
+        "wasteDescription": "aqueous sludges containing paint or varnish containing organic solvents or other hazardous substances"
+    },
+    {
+        "wasteCode": "08 01 16",
+        "wasteDescription": "aqueous sludges containing paint or varnish other than those mentioned in 08 01 15"
+    },
+    {
+        "wasteCode": "08 01 17",
+        "wasteDescription": "wastes from paint or varnish removal containing organic solvents or other hazardous substances"
+    },
+    {
+        "wasteCode": "08 01 18",
+        "wasteDescription": "wastes from paint or varnish removal other than those mentioned in 08 01 17"
+    },
+    {
+        "wasteCode": "08 01 19",
+        "wasteDescription": "aqueous suspensions containing paint or varnish containing organic solvents or other hazardous substances"
+    },
+    {
+        "wasteCode": "08 01 20",
+        "wasteDescription": "aqueous suspensions containing paint or varnish other than those mentioned in 08 01 19"
+    },
+    {
+        "wasteCode": "08 01 21",
+        "wasteDescription": "waste paint or varnish remover"
+    },
+    {
+        "wasteCode": "08 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "08 02 01",
+        "wasteDescription": "waste coating powders"
+    },
+    {
+        "wasteCode": "08 02 02",
+        "wasteDescription": "aqueous sludges containing ceramic materials"
+    },
+    {
+        "wasteCode": "08 02 03",
+        "wasteDescription": "aqueous suspensions containing ceramic materials"
+    },
+    {
+        "wasteCode": "08 02 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "08 03 07",
+        "wasteDescription": "aqueous sludges containing ink"
+    },
+    {
+        "wasteCode": "08 03 08",
+        "wasteDescription": "aqueous liquid waste containing ink"
+    },
+    {
+        "wasteCode": "08 03 12",
+        "wasteDescription": "waste ink containing hazardous substances"
+    },
+    {
+        "wasteCode": "08 03 13",
+        "wasteDescription": "waste ink other than those mentioned in 08 03 12"
+    },
+    {
+        "wasteCode": "08 03 14",
+        "wasteDescription": "ink sludges containing hazardous substances"
+    },
+    {
+        "wasteCode": "08 03 15",
+        "wasteDescription": "ink sludges other than those mentioned in 08 03 14"
+    },
+    {
+        "wasteCode": "08 03 16",
+        "wasteDescription": "waste etching solutions"
+    },
+    {
+        "wasteCode": "08 03 17",
+        "wasteDescription": "waste printing toner containing hazardous substances"
+    },
+    {
+        "wasteCode": "08 03 18",
+        "wasteDescription": "waste printing toner other than those mentioned in 08 03 17"
+    },
+    {
+        "wasteCode": "08 03 19",
+        "wasteDescription": "disperse oil"
+    },
+    {
+        "wasteCode": "08 03 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "08 04 09",
+        "wasteDescription": "waste adhesives and sealants containing organic solvents or other hazardous substances"
+    },
+    {
+        "wasteCode": "08 04 10",
+        "wasteDescription": "waste adhesives and sealants other than those mentioned in 08 04 09"
+    },
+    {
+        "wasteCode": "08 04 11",
+        "wasteDescription": "adhesive and sealant sludges containing organic solvents or other hazardous substances"
+    },
+    {
+        "wasteCode": "08 04 12",
+        "wasteDescription": "adhesive and sealant sludges other than those mentioned in 08 04 11"
+    },
+    {
+        "wasteCode": "08 04 13",
+        "wasteDescription": "aqueous sludges containing adhesives or sealants containing organic solvents or other hazardous substances"
+    },
+    {
+        "wasteCode": "08 04 14",
+        "wasteDescription": "aqueous sludges containing adhesives or sealants other than those mentioned in 08 04 13"
+    },
+    {
+        "wasteCode": "08 04 15",
+        "wasteDescription": "aqueous liquid waste containing adhesives or sealants containing organic solvents or other hazardous substances"
+    },
+    {
+        "wasteCode": "08 04 16",
+        "wasteDescription": "aqueous liquid waste containing adhesives or sealants other than those mentioned in 08 04 15"
+    },
+    {
+        "wasteCode": "08 04 17",
+        "wasteDescription": "rosin oil"
+    },
+    {
+        "wasteCode": "08 04 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "08 05 01",
+        "wasteDescription": "waste isocyanates"
+    },
+    {
+        "wasteCode": "09 01 01",
+        "wasteDescription": "water-based developer and activator solutions"
+    },
+    {
+        "wasteCode": "09 01 02",
+        "wasteDescription": "water-based offset plate developer solutions"
+    },
+    {
+        "wasteCode": "09 01 03",
+        "wasteDescription": "solvent-based developer solutions"
+    },
+    {
+        "wasteCode": "09 01 04",
+        "wasteDescription": "fixer solutions"
+    },
+    {
+        "wasteCode": "09 01 05",
+        "wasteDescription": "bleach solutions and bleach fixer solutions"
+    },
+    {
+        "wasteCode": "09 01 06",
+        "wasteDescription": "wastes containing silver from on-site treatment of photographic wastes"
+    },
+    {
+        "wasteCode": "09 01 07",
+        "wasteDescription": "photographic film and paper containing silver or silver compounds"
+    },
+    {
+        "wasteCode": "09 01 08",
+        "wasteDescription": "photographic film and paper free of silver or silver compounds"
+    },
+    {
+        "wasteCode": "09 01 10",
+        "wasteDescription": "single-use cameras without batteries"
+    },
+    {
+        "wasteCode": "09 01 11",
+        "wasteDescription": "single-use cameras containing batteries included in 16 06 01, 16 06 02 or 16 06 03"
+    },
+    {
+        "wasteCode": "09 01 12",
+        "wasteDescription": "single-use cameras containing batteries other than those mentioned in 09 01 11"
+    },
+    {
+        "wasteCode": "09 01 13",
+        "wasteDescription": "aqueous liquid waste from on-site reclamation of silver other than those mentioned in 09 01 06"
+    },
+    {
+        "wasteCode": "09 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 01 01",
+        "wasteDescription": "bottom ash, slag and boiler dust (excluding boiler dust mentioned in 10 01 04)"
+    },
+    {
+        "wasteCode": "10 01 02",
+        "wasteDescription": "coal fly ash"
+    },
+    {
+        "wasteCode": "10 01 03",
+        "wasteDescription": "fly ash from peat and untreated wood"
+    },
+    {
+        "wasteCode": "10 01 04",
+        "wasteDescription": "oil fly ash and boiler dust"
+    },
+    {
+        "wasteCode": "10 01 05",
+        "wasteDescription": "calcium-based reaction wastes from flue-gas desulphurisation in solid form"
+    },
+    {
+        "wasteCode": "10 01 07",
+        "wasteDescription": "calcium-based reaction wastes from flue-gas desulphurisation in sludge form"
+    },
+    {
+        "wasteCode": "10 01 09",
+        "wasteDescription": "sulphuric acid"
+    },
+    {
+        "wasteCode": "10 01 13",
+        "wasteDescription": "fly ash from emulsified hydrocarbons used as fuel"
+    },
+    {
+        "wasteCode": "10 01 14",
+        "wasteDescription": "bottom ash, slag and boiler dust from co-incineration containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 01 15",
+        "wasteDescription": "bottom ash, slag and boiler dust from co-incineration other than those mentioned in 10 01 14"
+    },
+    {
+        "wasteCode": "10 01 16",
+        "wasteDescription": "fly ash from co-incineration containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 01 17",
+        "wasteDescription": "fly ash from co-incineration other than those mentioned in 10 01 16"
+    },
+    {
+        "wasteCode": "10 01 18",
+        "wasteDescription": "wastes from gas cleaning containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 01 19",
+        "wasteDescription": "wastes from gas cleaning other than those mentioned in 10 01 05, 10 01 07 and 10 01 18"
+    },
+    {
+        "wasteCode": "10 01 20",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 01 21",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 10 01 20"
+    },
+    {
+        "wasteCode": "10 01 22",
+        "wasteDescription": "aqueous sludges from boiler cleansing containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 01 23",
+        "wasteDescription": "aqueous sludges from boiler cleansing other than those mentioned in 10 01 22"
+    },
+    {
+        "wasteCode": "10 01 24",
+        "wasteDescription": "sands from fluidised beds"
+    },
+    {
+        "wasteCode": "10 01 25",
+        "wasteDescription": "wastes from fuel storage and preparation of coal-fired power plants"
+    },
+    {
+        "wasteCode": "10 01 26",
+        "wasteDescription": "wastes from cooling-water treatment"
+    },
+    {
+        "wasteCode": "10 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 02 01",
+        "wasteDescription": "wastes from the processing of slag"
+    },
+    {
+        "wasteCode": "10 02 02",
+        "wasteDescription": "unprocessed slag"
+    },
+    {
+        "wasteCode": "10 02 07",
+        "wasteDescription": "solid wastes from gas treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 02 08",
+        "wasteDescription": "solid wastes from gas treatment other than those mentioned in 10 02 07"
+    },
+    {
+        "wasteCode": "10 02 10",
+        "wasteDescription": "mill scales"
+    },
+    {
+        "wasteCode": "10 02 11",
+        "wasteDescription": "wastes from cooling-water treatment containing oil"
+    },
+    {
+        "wasteCode": "10 02 12",
+        "wasteDescription": "wastes from cooling-water treatment other than those mentioned in 10 02 11"
+    },
+    {
+        "wasteCode": "10 02 13",
+        "wasteDescription": "sludges and filter cakes from gas treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 02 14",
+        "wasteDescription": "sludges and filter cakes from gas treatment other than those mentioned in 10 02 13"
+    },
+    {
+        "wasteCode": "10 02 15",
+        "wasteDescription": "other sludges and filter cakes"
+    },
+    {
+        "wasteCode": "10 02 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 03 02",
+        "wasteDescription": "anode scraps"
+    },
+    {
+        "wasteCode": "10 03 04",
+        "wasteDescription": "primary production slags"
+    },
+    {
+        "wasteCode": "10 03 05",
+        "wasteDescription": "waste alumina"
+    },
+    {
+        "wasteCode": "10 03 08",
+        "wasteDescription": "salt slags from secondary production"
+    },
+    {
+        "wasteCode": "10 03 09",
+        "wasteDescription": "black drosses from secondary production"
+    },
+    {
+        "wasteCode": "10 03 15",
+        "wasteDescription": "skimmings that are flammable or emit, upon contact with water, flammable gases in hazardous quantities"
+    },
+    {
+        "wasteCode": "10 03 16",
+        "wasteDescription": "skimmings other than those mentioned in 10 03 15"
+    },
+    {
+        "wasteCode": "10 03 17",
+        "wasteDescription": "tar-containing wastes from anode manufacture"
+    },
+    {
+        "wasteCode": "10 03 18",
+        "wasteDescription": "carbon-containing wastes from anode manufacture other than those mentioned in 10 03 17"
+    },
+    {
+        "wasteCode": "10 03 19",
+        "wasteDescription": "flue-gas dust containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 03 20",
+        "wasteDescription": "flue-gas dust other than those mentioned in 10 03 19"
+    },
+    {
+        "wasteCode": "10 03 21",
+        "wasteDescription": "other particulates and dust (including ball-mill dust) containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 03 22",
+        "wasteDescription": "other particulates and dust (including ball-mill dust) other than those mentioned in 10 03 21"
+    },
+    {
+        "wasteCode": "10 03 23",
+        "wasteDescription": "solid wastes from gas treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 03 24",
+        "wasteDescription": "solid wastes from gas treatment other than those mentioned in 10 03 23"
+    },
+    {
+        "wasteCode": "10 03 25",
+        "wasteDescription": "sludges and filter cakes from gas treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 03 26",
+        "wasteDescription": "sludges and filter cakes from gas treatment other than those mentioned in 10 03 25"
+    },
+    {
+        "wasteCode": "10 03 27",
+        "wasteDescription": "wastes from cooling-water treatment containing oil"
+    },
+    {
+        "wasteCode": "10 03 28",
+        "wasteDescription": "wastes from cooling-water treatment other than those mentioned in 10 03 27"
+    },
+    {
+        "wasteCode": "10 03 29",
+        "wasteDescription": "wastes from treatment of salt slags and black drosses containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 03 30",
+        "wasteDescription": "wastes from treatment of salt slags and black drosses other than those mentioned in 10 03 29"
+    },
+    {
+        "wasteCode": "10 03 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 04 01",
+        "wasteDescription": "slags from primary and secondary production"
+    },
+    {
+        "wasteCode": "10 04 02",
+        "wasteDescription": "dross and skimmings from primary and secondary production"
+    },
+    {
+        "wasteCode": "10 04 03",
+        "wasteDescription": "calcium arsenate"
+    },
+    {
+        "wasteCode": "10 04 04",
+        "wasteDescription": "flue-gas dust"
+    },
+    {
+        "wasteCode": "10 04 05",
+        "wasteDescription": "other particulates and dust"
+    },
+    {
+        "wasteCode": "10 04 06",
+        "wasteDescription": "solid wastes from gas treatment"
+    },
+    {
+        "wasteCode": "10 04 07",
+        "wasteDescription": "sludges and filter cakes from gas treatment"
+    },
+    {
+        "wasteCode": "10 04 09",
+        "wasteDescription": "wastes from cooling-water treatment containing oil"
+    },
+    {
+        "wasteCode": "10 04 10",
+        "wasteDescription": "wastes from cooling-water treatment other than those mentioned in 10 04 09"
+    },
+    {
+        "wasteCode": "10 04 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 05 01",
+        "wasteDescription": "slags from primary and secondary production"
+    },
+    {
+        "wasteCode": "10 05 03",
+        "wasteDescription": "flue-gas dust"
+    },
+    {
+        "wasteCode": "10 05 04",
+        "wasteDescription": "other particulates and dust"
+    },
+    {
+        "wasteCode": "10 05 05",
+        "wasteDescription": "solid waste from gas treatment"
+    },
+    {
+        "wasteCode": "10 05 06",
+        "wasteDescription": "sludges and filter cakes from gas treatment"
+    },
+    {
+        "wasteCode": "10 05 08",
+        "wasteDescription": "wastes from cooling-water treatment containing oil"
+    },
+    {
+        "wasteCode": "10 05 09",
+        "wasteDescription": "wastes from cooling-water treatment other than those mentioned in 10 05 08"
+    },
+    {
+        "wasteCode": "10 05 10",
+        "wasteDescription": "dross and skimmings that are flammable or emit, upon contact with water, flammable gases in hazardous quantities"
+    },
+    {
+        "wasteCode": "10 05 11",
+        "wasteDescription": "dross and skimmings other than those mentioned in 10 05 10"
+    },
+    {
+        "wasteCode": "10 05 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 06 01",
+        "wasteDescription": "slags from primary and secondary production"
+    },
+    {
+        "wasteCode": "10 06 02",
+        "wasteDescription": "dross and skimmings from primary and secondary production"
+    },
+    {
+        "wasteCode": "10 06 03",
+        "wasteDescription": "flue-gas dust"
+    },
+    {
+        "wasteCode": "10 06 04",
+        "wasteDescription": "other particulates and dust"
+    },
+    {
+        "wasteCode": "10 06 06",
+        "wasteDescription": "solid wastes from gas treatment"
+    },
+    {
+        "wasteCode": "10 06 07",
+        "wasteDescription": "sludges and filter cakes from gas treatment"
+    },
+    {
+        "wasteCode": "10 06 09",
+        "wasteDescription": "wastes from cooling-water treatment containing oil"
+    },
+    {
+        "wasteCode": "10 06 10",
+        "wasteDescription": "wastes from cooling-water treatment other than those mentioned in 10 06 09"
+    },
+    {
+        "wasteCode": "10 06 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 07 01",
+        "wasteDescription": "slags from primary and secondary production"
+    },
+    {
+        "wasteCode": "10 07 02",
+        "wasteDescription": "dross and skimmings from primary and secondary production"
+    },
+    {
+        "wasteCode": "10 07 03",
+        "wasteDescription": "solid wastes from gas treatment"
+    },
+    {
+        "wasteCode": "10 07 04",
+        "wasteDescription": "other particulates and dust"
+    },
+    {
+        "wasteCode": "10 07 05",
+        "wasteDescription": "sludges and filter cakes from gas treatment"
+    },
+    {
+        "wasteCode": "10 07 07",
+        "wasteDescription": "wastes from cooling-water treatment containing oil"
+    },
+    {
+        "wasteCode": "10 07 08",
+        "wasteDescription": "wastes from cooling-water treatment other than those mentioned in 10 07 07"
+    },
+    {
+        "wasteCode": "10 07 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 08 04",
+        "wasteDescription": "particulates and dust"
+    },
+    {
+        "wasteCode": "10 08 08",
+        "wasteDescription": "salt slag from primary and secondary production"
+    },
+    {
+        "wasteCode": "10 08 09",
+        "wasteDescription": "other slags"
+    },
+    {
+        "wasteCode": "10 08 10",
+        "wasteDescription": "dross and skimmings that are flammable or emit, upon contact with water, flammable gases in hazardous quantities"
+    },
+    {
+        "wasteCode": "10 08 11",
+        "wasteDescription": "dross and skimmings other than those mentioned in 10 08 10"
+    },
+    {
+        "wasteCode": "10 08 12",
+        "wasteDescription": "tar-containing wastes from anode manufacture"
+    },
+    {
+        "wasteCode": "10 08 13",
+        "wasteDescription": "carbon-containing wastes from anode manufacture other than those mentioned in 10 08 12"
+    },
+    {
+        "wasteCode": "10 08 14",
+        "wasteDescription": "anode scrap"
+    },
+    {
+        "wasteCode": "10 08 15",
+        "wasteDescription": "flue-gas dust containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 08 16",
+        "wasteDescription": "flue-gas dust other than those mentioned in 10 08 15"
+    },
+    {
+        "wasteCode": "10 08 17",
+        "wasteDescription": "sludges and filter cakes from flue-gas treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 08 18",
+        "wasteDescription": "sludges and filter cakes from flue-gas treatment other than those mentioned in 10 08 17"
+    },
+    {
+        "wasteCode": "10 08 19",
+        "wasteDescription": "wastes from cooling-water treatment containing oil"
+    },
+    {
+        "wasteCode": "10 08 20",
+        "wasteDescription": "wastes from cooling-water treatment other than those mentioned in 10 08 19"
+    },
+    {
+        "wasteCode": "10 08 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 09 03",
+        "wasteDescription": "furnace slag"
+    },
+    {
+        "wasteCode": "10 09 05",
+        "wasteDescription": "casting cores and moulds which have not undergone pouring containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 09 06",
+        "wasteDescription": "casting cores and moulds which have not undergone pouring other than those mentioned in 10 09 05"
+    },
+    {
+        "wasteCode": "10 09 07",
+        "wasteDescription": "casting cores and moulds which have undergone pouring containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 09 08",
+        "wasteDescription": "casting cores and moulds which have undergone pouring other than those mentioned in 10 09 07"
+    },
+    {
+        "wasteCode": "10 09 09",
+        "wasteDescription": "flue-gas dust containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 09 10",
+        "wasteDescription": "flue-gas dust other than those mentioned in 10 09 09"
+    },
+    {
+        "wasteCode": "10 09 11",
+        "wasteDescription": "other particulates containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 09 12",
+        "wasteDescription": "other particulates other than those mentioned in 10 09 11"
+    },
+    {
+        "wasteCode": "10 09 13",
+        "wasteDescription": "waste binders containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 09 14",
+        "wasteDescription": "waste binders other than those mentioned in 10 09 13"
+    },
+    {
+        "wasteCode": "10 09 15",
+        "wasteDescription": "waste crack-indicating agent containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 09 16",
+        "wasteDescription": "waste crack-indicating agent other than those mentioned in 10 09 15"
+    },
+    {
+        "wasteCode": "10 09 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 10 03",
+        "wasteDescription": "furnace slag"
+    },
+    {
+        "wasteCode": "10 10 05",
+        "wasteDescription": "casting cores and moulds which have not undergone pouring, containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 10 06",
+        "wasteDescription": "casting cores and moulds which have not undergone pouring, other than those mentioned in 10 10 05"
+    },
+    {
+        "wasteCode": "10 10 07",
+        "wasteDescription": "casting cores and moulds which have undergone pouring, containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 10 08",
+        "wasteDescription": "casting cores and moulds which have undergone pouring, other than those mentioned in 10 10 07"
+    },
+    {
+        "wasteCode": "10 10 09",
+        "wasteDescription": "flue-gas dust containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 10 10",
+        "wasteDescription": "flue-gas dust other than those mentioned in 10 10 09"
+    },
+    {
+        "wasteCode": "10 10 11",
+        "wasteDescription": "other particulates containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 10 12",
+        "wasteDescription": "other particulates other than those mentioned in 10 10 11"
+    },
+    {
+        "wasteCode": "10 10 13",
+        "wasteDescription": "waste binders containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 10 14",
+        "wasteDescription": "waste binders other than those mentioned in 10 10 13"
+    },
+    {
+        "wasteCode": "10 10 15",
+        "wasteDescription": "waste crack-indicating agent containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 10 16",
+        "wasteDescription": "waste crack-indicating agent other than those mentioned in 10 10 15"
+    },
+    {
+        "wasteCode": "10 10 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 11 03",
+        "wasteDescription": "waste glass-based fibrous materials"
+    },
+    {
+        "wasteCode": "10 11 05",
+        "wasteDescription": "particulates and dust"
+    },
+    {
+        "wasteCode": "10 11 09",
+        "wasteDescription": "waste preparation mixture before thermal processing, containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 11 10",
+        "wasteDescription": "waste preparation mixture before thermal processing, other than those mentioned in 10 11 09"
+    },
+    {
+        "wasteCode": "10 11 11",
+        "wasteDescription": "waste glass in small particles and glass powder containing heavy metals (for example from cathode ray tubes)"
+    },
+    {
+        "wasteCode": "10 11 12",
+        "wasteDescription": "waste glass other than those mentioned in 10 11 11"
+    },
+    {
+        "wasteCode": "10 11 13",
+        "wasteDescription": "glass-polishing and -grinding sludge containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 11 14",
+        "wasteDescription": "glass-polishing and -grinding sludge other than those mentioned in 10 11 13"
+    },
+    {
+        "wasteCode": "10 11 15",
+        "wasteDescription": "solid wastes from flue-gas treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 11 16",
+        "wasteDescription": "solid wastes from flue-gas treatment other than those mentioned in 10 11 15"
+    },
+    {
+        "wasteCode": "10 11 17",
+        "wasteDescription": "sludges and filter cakes from flue-gas treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 11 18",
+        "wasteDescription": "sludges and filter cakes from flue-gas treatment other than those mentioned in 10 11 17"
+    },
+    {
+        "wasteCode": "10 11 19",
+        "wasteDescription": "solid wastes from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 11 20",
+        "wasteDescription": "solid wastes from on-site effluent treatment other than those mentioned in 10 11 19"
+    },
+    {
+        "wasteCode": "10 11 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 12 01",
+        "wasteDescription": "waste preparation mixture before thermal processing"
+    },
+    {
+        "wasteCode": "10 12 03",
+        "wasteDescription": "particulates and dust"
+    },
+    {
+        "wasteCode": "10 12 05",
+        "wasteDescription": "sludges and filter cakes from gas treatment"
+    },
+    {
+        "wasteCode": "10 12 06",
+        "wasteDescription": "discarded moulds"
+    },
+    {
+        "wasteCode": "10 12 08",
+        "wasteDescription": "waste ceramics, bricks, tiles and construction products (after thermal processing)"
+    },
+    {
+        "wasteCode": "10 12 09",
+        "wasteDescription": "solid wastes from gas treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 12 10",
+        "wasteDescription": "solid wastes from gas treatment other than those mentioned in 10 12 09"
+    },
+    {
+        "wasteCode": "10 12 11",
+        "wasteDescription": "wastes from glazing containing heavy metals"
+    },
+    {
+        "wasteCode": "10 12 12",
+        "wasteDescription": "wastes from glazing other than those mentioned in 10 12 11"
+    },
+    {
+        "wasteCode": "10 12 13",
+        "wasteDescription": "sludge from on-site effluent treatment"
+    },
+    {
+        "wasteCode": "10 12 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 13 01",
+        "wasteDescription": "waste preparation mixture before thermal processing"
+    },
+    {
+        "wasteCode": "10 13 04",
+        "wasteDescription": "wastes from calcination and hydration of lime"
+    },
+    {
+        "wasteCode": "10 13 06",
+        "wasteDescription": "particulates and dust (except 10 13 12 and 10 13 13)"
+    },
+    {
+        "wasteCode": "10 13 07",
+        "wasteDescription": "sludges and filter cakes from gas treatment"
+    },
+    {
+        "wasteCode": "10 13 09",
+        "wasteDescription": "wastes from asbestos-cement manufacture containing asbestos"
+    },
+    {
+        "wasteCode": "10 13 10",
+        "wasteDescription": "wastes from asbestos-cement manufacture other than those mentioned in 10 13 09"
+    },
+    {
+        "wasteCode": "10 13 11",
+        "wasteDescription": "wastes from cement-based composite materials other than those mentioned in 10 13 09 and 10 13 10"
+    },
+    {
+        "wasteCode": "10 13 12",
+        "wasteDescription": "solid wastes from gas treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "10 13 13",
+        "wasteDescription": "solid wastes from gas treatment other than those mentioned in 10 13 12"
+    },
+    {
+        "wasteCode": "10 13 14",
+        "wasteDescription": "waste concrete and concrete sludge"
+    },
+    {
+        "wasteCode": "10 13 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "10 14 01",
+        "wasteDescription": "waste from gas cleaning containing mercury"
+    },
+    {
+        "wasteCode": "11 01 05",
+        "wasteDescription": "pickling acids"
+    },
+    {
+        "wasteCode": "11 01 06",
+        "wasteDescription": "acids not otherwise specified"
+    },
+    {
+        "wasteCode": "11 01 07",
+        "wasteDescription": "pickling bases"
+    },
+    {
+        "wasteCode": "11 01 08",
+        "wasteDescription": "phosphatising sludges"
+    },
+    {
+        "wasteCode": "11 01 09",
+        "wasteDescription": "sludges and filter cakes containing hazardous substances"
+    },
+    {
+        "wasteCode": "11 01 10",
+        "wasteDescription": "sludges and filter cakes other than those mentioned in 11 01 09"
+    },
+    {
+        "wasteCode": "11 01 11",
+        "wasteDescription": "aqueous rinsing liquids containing hazardous substances"
+    },
+    {
+        "wasteCode": "11 01 12",
+        "wasteDescription": "aqueous rinsing liquids other than those mentioned in 11 01 11"
+    },
+    {
+        "wasteCode": "11 01 13",
+        "wasteDescription": "degreasing wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "11 01 14",
+        "wasteDescription": "degreasing wastes other than those mentioned in 11 01 13"
+    },
+    {
+        "wasteCode": "11 01 15",
+        "wasteDescription": "eluate and sludges from membrane systems or ion exchange systems containing hazardous substances"
+    },
+    {
+        "wasteCode": "11 01 16",
+        "wasteDescription": "saturated or spent ion exchange resins"
+    },
+    {
+        "wasteCode": "11 01 98",
+        "wasteDescription": "other wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "11 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "11 02 02",
+        "wasteDescription": "sludges from zinc hydrometallurgy (including jarosite, goethite)"
+    },
+    {
+        "wasteCode": "11 02 03",
+        "wasteDescription": "wastes from the production of anodes for aqueous electrolytical processes"
+    },
+    {
+        "wasteCode": "11 02 05",
+        "wasteDescription": "wastes from copper hydrometallurgical processes containing hazardous substances"
+    },
+    {
+        "wasteCode": "11 02 06",
+        "wasteDescription": "wastes from copper hydrometallurgical processes other than those mentioned in 11 02 05"
+    },
+    {
+        "wasteCode": "11 02 07",
+        "wasteDescription": "ther wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "11 02 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "11 03 01",
+        "wasteDescription": "wastes containing cyanide"
+    },
+    {
+        "wasteCode": "11 03 02",
+        "wasteDescription": "other waste"
+    },
+    {
+        "wasteCode": "11 05 01",
+        "wasteDescription": "hard zinc"
+    },
+    {
+        "wasteCode": "11 05 02",
+        "wasteDescription": "zinc ash"
+    },
+    {
+        "wasteCode": "11 05 03",
+        "wasteDescription": "solid wastes from gas treatment"
+    },
+    {
+        "wasteCode": "11 05 04",
+        "wasteDescription": "spent flux"
+    },
+    {
+        "wasteCode": "11 05 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "12 01 01",
+        "wasteDescription": "ferrous metal filings and turnings"
+    },
+    {
+        "wasteCode": "12 01 02",
+        "wasteDescription": "ferrous metal dust and particles"
+    },
+    {
+        "wasteCode": "12 01 03",
+        "wasteDescription": "non-ferrous metal filings and turnings"
+    },
+    {
+        "wasteCode": "12 01 04",
+        "wasteDescription": "non-ferrous metal dust and particles"
+    },
+    {
+        "wasteCode": "12 01 05",
+        "wasteDescription": "plastics shavings and turnings"
+    },
+    {
+        "wasteCode": "12 01 06",
+        "wasteDescription": "mineral-based machining oils containing halogens (except emulsions and solutions)"
+    },
+    {
+        "wasteCode": "12 01 07",
+        "wasteDescription": "mineral-based machining oils free of halogens (except emulsions and solutions)"
+    },
+    {
+        "wasteCode": "12 01 08",
+        "wasteDescription": "machining emulsions and solutions containing halogens"
+    },
+    {
+        "wasteCode": "12 01 09",
+        "wasteDescription": "machining emulsions and solutions free of halogens"
+    },
+    {
+        "wasteCode": "12 01 10",
+        "wasteDescription": "synthetic machining oils"
+    },
+    {
+        "wasteCode": "12 01 12",
+        "wasteDescription": "spent waxes and fats"
+    },
+    {
+        "wasteCode": "12 01 13",
+        "wasteDescription": "welding wastes"
+    },
+    {
+        "wasteCode": "12 01 14",
+        "wasteDescription": "machining sludges containing hazardous substances"
+    },
+    {
+        "wasteCode": "12 01 15",
+        "wasteDescription": "machining sludges other than those mentioned in 12 01 14"
+    },
+    {
+        "wasteCode": "12 01 16",
+        "wasteDescription": "waste blasting material containing hazardous substances"
+    },
+    {
+        "wasteCode": "12 01 17",
+        "wasteDescription": "waste blasting material other than those mentioned in 12 01 16"
+    },
+    {
+        "wasteCode": "12 01 18",
+        "wasteDescription": "metal sludge (grinding, honing and lapping sludge) containing oil"
+    },
+    {
+        "wasteCode": "12 01 19",
+        "wasteDescription": "readily biodegradable machining oil"
+    },
+    {
+        "wasteCode": "12 01 20",
+        "wasteDescription": "spent grinding bodies and grinding materials containing hazardous substances"
+    },
+    {
+        "wasteCode": "12 01 21",
+        "wasteDescription": "spent grinding bodies and grinding materials other than those mentioned in 12 01 20"
+    },
+    {
+        "wasteCode": "12 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "12 03 01",
+        "wasteDescription": "aqueous washing liquids"
+    },
+    {
+        "wasteCode": "12 03 02",
+        "wasteDescription": "steam degreasing wastes"
+    },
+    {
+        "wasteCode": "13 01 01",
+        "wasteDescription": "hydraulic oils, containing PCBs"
+    },
+    {
+        "wasteCode": "13 01 04",
+        "wasteDescription": "chlorinated emulsions"
+    },
+    {
+        "wasteCode": "13 01 05",
+        "wasteDescription": "non-chlorinated emulsions"
+    },
+    {
+        "wasteCode": "13 01 09",
+        "wasteDescription": "mineral-based chlorinated hydraulic oils"
+    },
+    {
+        "wasteCode": "13 01 10",
+        "wasteDescription": "mineral based non-chlorinated hydraulic oils"
+    },
+    {
+        "wasteCode": "13 01 11",
+        "wasteDescription": "synthetic hydraulic oils"
+    },
+    {
+        "wasteCode": "13 01 12",
+        "wasteDescription": "readily biodegradable hydraulic oils"
+    },
+    {
+        "wasteCode": "13 01 13",
+        "wasteDescription": "other hydraulic oils"
+    },
+    {
+        "wasteCode": "13 02 04",
+        "wasteDescription": "mineral-based chlorinated engine, gear and lubricating oils"
+    },
+    {
+        "wasteCode": "13 02 05",
+        "wasteDescription": "mineral-based non-chlorinated engine, gear and lubricating oils"
+    },
+    {
+        "wasteCode": "13 02 06",
+        "wasteDescription": "synthetic engine, gear and lubricating oils"
+    },
+    {
+        "wasteCode": "13 02 07",
+        "wasteDescription": "readily biodegradable engine, gear and lubricating oils"
+    },
+    {
+        "wasteCode": "13 02 08",
+        "wasteDescription": "other engine, gear and lubricating oils"
+    },
+    {
+        "wasteCode": "13 03 01",
+        "wasteDescription": "insulating or heat transmission oils containing PCBs"
+    },
+    {
+        "wasteCode": "13 03 06",
+        "wasteDescription": "mineral-based chlorinated insulating and heat transmission oils other than those mentioned in 13 03 01"
+    },
+    {
+        "wasteCode": "13 03 07",
+        "wasteDescription": "mineral-based non-chlorinated insulating and heat transmission oils"
+    },
+    {
+        "wasteCode": "13 03 08",
+        "wasteDescription": "synthetic insulating and heat transmission oils"
+    },
+    {
+        "wasteCode": "13 03 09",
+        "wasteDescription": "readily biodegradable insulating and heat transmission oils"
+    },
+    {
+        "wasteCode": "13 03 10",
+        "wasteDescription": "other insulating and heat transmission oils"
+    },
+    {
+        "wasteCode": "13 04 01",
+        "wasteDescription": "bilge oils from inland navigation"
+    },
+    {
+        "wasteCode": "13 04 02",
+        "wasteDescription": "bilge oils from jetty sewers"
+    },
+    {
+        "wasteCode": "13 04 03",
+        "wasteDescription": "bilge oils from other navigation"
+    },
+    {
+        "wasteCode": "13 05 01",
+        "wasteDescription": "solids from grit chambers and oil/water separators"
+    },
+    {
+        "wasteCode": "13 05 02",
+        "wasteDescription": "sludges from oil/water separators"
+    },
+    {
+        "wasteCode": "13 05 03",
+        "wasteDescription": "interceptor sludges"
+    },
+    {
+        "wasteCode": "13 05 06",
+        "wasteDescription": "from oil/water separators"
+    },
+    {
+        "wasteCode": "13 05 07",
+        "wasteDescription": "oily water from oil/water separators"
+    },
+    {
+        "wasteCode": "13 05 08",
+        "wasteDescription": "mixtures of wastes from grit chambers and oil/water separators"
+    },
+    {
+        "wasteCode": "13 07 01",
+        "wasteDescription": "fuel oil and diesel"
+    },
+    {
+        "wasteCode": "13 07 02",
+        "wasteDescription": "petrol"
+    },
+    {
+        "wasteCode": "13 07 03",
+        "wasteDescription": "other fuels (including mixtures)"
+    },
+    {
+        "wasteCode": "13 08 01",
+        "wasteDescription": "desalter sludges or emulsions"
+    },
+    {
+        "wasteCode": "13 08 02",
+        "wasteDescription": "other emulsions"
+    },
+    {
+        "wasteCode": "13 08 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "14 06 01",
+        "wasteDescription": "chlorofluorocarbons, HCFC, HFC"
+    },
+    {
+        "wasteCode": "14 06 02",
+        "wasteDescription": "other halogenated solvents and solvent mixtures"
+    },
+    {
+        "wasteCode": "14 06 03",
+        "wasteDescription": "other solvents and solvent mixtures"
+    },
+    {
+        "wasteCode": "14 06 04",
+        "wasteDescription": "sludges or solid wastes containing halogenated solvents"
+    },
+    {
+        "wasteCode": "14 06 05",
+        "wasteDescription": "sludges or solid wastes containing other solvents"
+    },
+    {
+        "wasteCode": "15 01 01",
+        "wasteDescription": "paper and cardboard packaging"
+    },
+    {
+        "wasteCode": "15 01 02",
+        "wasteDescription": "plastic packaging"
+    },
+    {
+        "wasteCode": "15 01 03",
+        "wasteDescription": "wooden packaging"
+    },
+    {
+        "wasteCode": "15 01 04",
+        "wasteDescription": "metallic packaging"
+    },
+    {
+        "wasteCode": "15 01 05",
+        "wasteDescription": "composite packaging"
+    },
+    {
+        "wasteCode": "15 01 06",
+        "wasteDescription": "mixed packaging"
+    },
+    {
+        "wasteCode": "15 01 07",
+        "wasteDescription": "glass packaging"
+    },
+    {
+        "wasteCode": "15 01 09",
+        "wasteDescription": "textile packaging"
+    },
+    {
+        "wasteCode": "15 01 10",
+        "wasteDescription": "packaging containing residues of or contaminated by hazardous substances"
+    },
+    {
+        "wasteCode": "15 01 11",
+        "wasteDescription": "metallic packaging containing a hazardous solid porous matrix (for example asbestos), including empty pressure containers"
+    },
+    {
+        "wasteCode": "15 02 02",
+        "wasteDescription": "absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances"
+    },
+    {
+        "wasteCode": "15 02 03",
+        "wasteDescription": "absorbents, filter materials, wiping cloths and protective clothing other than those mentioned in 15 02 02"
+    },
+    {
+        "wasteCode": "16 01 03",
+        "wasteDescription": "end-of-life tyres"
+    },
+    {
+        "wasteCode": "16 01 04",
+        "wasteDescription": "end-of-life vehicles"
+    },
+    {
+        "wasteCode": "16 01 04 A",
+        "wasteDescription": "M1 & N1 Category ELVs"
+    },
+    {
+        "wasteCode": "16 01 04 B",
+        "wasteDescription": "ELVs from all other vehicles (other than M1 & N1)"
+    },
+    {
+        "wasteCode": "16 01 06",
+        "wasteDescription": "end-of-life vehicles, containing neither liquids nor other hazardous components"
+    },
+    {
+        "wasteCode": "16 01 07",
+        "wasteDescription": "oil filters"
+    },
+    {
+        "wasteCode": "16 01 08",
+        "wasteDescription": "components containing mercury"
+    },
+    {
+        "wasteCode": "16 01 09",
+        "wasteDescription": "components containing PCBs"
+    },
+    {
+        "wasteCode": "16 01 10",
+        "wasteDescription": "explosive components (for example air bags)"
+    },
+    {
+        "wasteCode": "16 01 11",
+        "wasteDescription": "brake pads containing asbestos"
+    },
+    {
+        "wasteCode": "16 01 12",
+        "wasteDescription": "brake pads other than those mentioned in 16 01 11"
+    },
+    {
+        "wasteCode": "16 01 13",
+        "wasteDescription": "brake fluids"
+    },
+    {
+        "wasteCode": "16 01 14",
+        "wasteDescription": "antifreeze fluids containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 01 15",
+        "wasteDescription": "antifreeze fluids other than those mentioned in 16 01 14"
+    },
+    {
+        "wasteCode": "16 01 16",
+        "wasteDescription": "tanks for liquefied gas"
+    },
+    {
+        "wasteCode": "16 01 17",
+        "wasteDescription": "ferrous metal"
+    },
+    {
+        "wasteCode": "16 01 18",
+        "wasteDescription": "non-ferrous metal"
+    },
+    {
+        "wasteCode": "16 01 19",
+        "wasteDescription": "plastic"
+    },
+    {
+        "wasteCode": "16 01 20",
+        "wasteDescription": "glass"
+    },
+    {
+        "wasteCode": "16 01 21",
+        "wasteDescription": "hazardous components other than those mentioned in 16 01 07 to 16 01 11 and 16 01 13 and 16 01 14"
+    },
+    {
+        "wasteCode": "16 01 21*- R134a",
+        "wasteDescription": "A/C Fluid -R134a - hazardous components other than those mentioned in 16 01 07 to 16 01 11 and 16 01 13 and 16 01 14"
+    },
+    {
+        "wasteCode": "16 01 21*- R1234yf",
+        "wasteDescription": "A/C Fluid -R1234yf - hazardous components other than those mentioned in 16 01 07 to 16 01 11 and 16 01 13 and 16 01 14"
+    },
+    {
+        "wasteCode": "16 01 21*- R12",
+        "wasteDescription": "A/C Fluid -R12 - hazardous components other than those mentioned in 16 01 07 to 16 01 11 and 16 01 13 and 16 01 14"
+    },
+    {
+        "wasteCode": "16 01 21*- R456A",
+        "wasteDescription": "A/C Fluid -R456A - hazardous components other than those mentioned in 16 01 07 to 16 01 11 and 16 01 13 and 16 01 14"
+    },
+    {
+        "wasteCode": "16 01 22",
+        "wasteDescription": "components not otherwise specified"
+    },
+    {
+        "wasteCode": "16 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "16 02 09",
+        "wasteDescription": "transformers and capacitors containing PCBs"
+    },
+    {
+        "wasteCode": "16 02 10",
+        "wasteDescription": "discarded equipment containing or contaminated by PCBs other than those mentioned in 16 02 09"
+    },
+    {
+        "wasteCode": "16 02 11",
+        "wasteDescription": "discarded equipment containing chlorofluorocarbons, HCFC, HFC"
+    },
+    {
+        "wasteCode": "16 02 12",
+        "wasteDescription": "discarded equipment containing free asbestos"
+    },
+    {
+        "wasteCode": "16 02 13",
+        "wasteDescription": "discarded equipment containing hazardous components other than those mentioned in 16 02 09 to 16 02 12"
+    },
+    {
+        "wasteCode": "16 02 13*A",
+        "wasteDescription": "Non-household waste florescent lamps"
+    },
+    {
+        "wasteCode": "16 02 13*B",
+        "wasteDescription": "Non-household waste light fittings, hazardous"
+    },
+    {
+        "wasteCode": "16 02 13*C",
+        "wasteDescription": "Non-household waste tvs and monitors, flatscreens"
+    },
+    {
+        "wasteCode": "16 02 13*D",
+        "wasteDescription": "Non-household waste tvs and monitors, cathode ray tubes"
+    },
+    {
+        "wasteCode": "16 02 13*E",
+        "wasteDescription": "Non-household other waste electronic and electrical equipment, hazardous"
+    },
+    {
+        "wasteCode": "16 02 14",
+        "wasteDescription": "discarded equipment other than those mentioned in 16 02 09 to 16 02 13"
+    },
+    {
+        "wasteCode": "16 02 14A",
+        "wasteDescription": "Non-household waste white goods"
+    },
+    {
+        "wasteCode": "16 02 14B",
+        "wasteDescription": "Non-household waste light fittings, non-hazardous"
+    },
+    {
+        "wasteCode": "16 02 14C",
+        "wasteDescription": "Non-household waste photovoltaic panels"
+    },
+    {
+        "wasteCode": "16 02 14D",
+        "wasteDescription": "Non-household other waste electronic and electrical equipment, non-hazardous"
+    },
+    {
+        "wasteCode": "16 02 15",
+        "wasteDescription": "hazardous components removed from discarded equipment"
+    },
+    {
+        "wasteCode": "16 02 16",
+        "wasteDescription": "components removed from discarded equipment other than those mentioned in \n16 02 15"
+    },
+    {
+        "wasteCode": "16 03 03",
+        "wasteDescription": "inorganic wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 03 04",
+        "wasteDescription": "inorganic wastes other than those mentioned in 16 03 03"
+    },
+    {
+        "wasteCode": "16 03 05",
+        "wasteDescription": "organic wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 03 06",
+        "wasteDescription": "organic wastes other than those mentioned in 16 03 05"
+    },
+    {
+        "wasteCode": "16 03 07",
+        "wasteDescription": "metallic mercury"
+    },
+    {
+        "wasteCode": "16 04 01",
+        "wasteDescription": "waste ammunition"
+    },
+    {
+        "wasteCode": "16 04 02",
+        "wasteDescription": "fireworks wastes"
+    },
+    {
+        "wasteCode": "16 04 03",
+        "wasteDescription": "other waste explosives"
+    },
+    {
+        "wasteCode": "16 05 04",
+        "wasteDescription": "gases in pressure containers (including halons) containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 05 05",
+        "wasteDescription": "gases in pressure containers other than those mentioned in 16 05 04"
+    },
+    {
+        "wasteCode": "16 05 06",
+        "wasteDescription": "laboratory chemicals, consisting of or containing hazardous substances, including mixtures of laboratory chemicals"
+    },
+    {
+        "wasteCode": "16 05 07",
+        "wasteDescription": "discarded inorganic chemicals consisting of or containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 05 08",
+        "wasteDescription": "discarded organic chemicals consisting of or containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 05 09",
+        "wasteDescription": "discarded chemicals other than those mentioned in 16 05 06, 16 05 07 or 16 05 08"
+    },
+    {
+        "wasteCode": "16 06 01",
+        "wasteDescription": "lead batteries"
+    },
+    {
+        "wasteCode": "16 06 02",
+        "wasteDescription": "Ni-Cd batteries"
+    },
+    {
+        "wasteCode": "16 06 03",
+        "wasteDescription": "mercury-containing batteries"
+    },
+    {
+        "wasteCode": "16 06 04",
+        "wasteDescription": "alkaline batteries (except 16 06 03)"
+    },
+    {
+        "wasteCode": "16 06 05",
+        "wasteDescription": "other batteries and accumulators"
+    },
+    {
+        "wasteCode": "16 06 06",
+        "wasteDescription": "separately collected electrolyte from batteries and accumulators"
+    },
+    {
+        "wasteCode": "16 07 08",
+        "wasteDescription": "wastes containing oil"
+    },
+    {
+        "wasteCode": "16 07 09",
+        "wasteDescription": "wastes containing other hazardous substances"
+    },
+    {
+        "wasteCode": "16 07 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "16 08 01",
+        "wasteDescription": "spent catalysts containing gold, silver, rhenium, rhodium, palladium, iridium or platinum (except 16 08 07)"
+    },
+    {
+        "wasteCode": "16 08 02",
+        "wasteDescription": "spent catalysts containing hazardous transition metals or hazardous transition metal compounds"
+    },
+    {
+        "wasteCode": "16 08 03",
+        "wasteDescription": "spent catalysts containing transition metals or transition metal compounds not otherwise specified"
+    },
+    {
+        "wasteCode": "16 08 04",
+        "wasteDescription": "spent fluid catalytic cracking catalysts (except 16 08 07)"
+    },
+    {
+        "wasteCode": "16 08 05",
+        "wasteDescription": "spent catalysts containing phosphoric acid"
+    },
+    {
+        "wasteCode": "16 08 06",
+        "wasteDescription": "spent liquids used as catalysts"
+    },
+    {
+        "wasteCode": "16 08 07",
+        "wasteDescription": "spent catalysts contaminated with hazardous substances"
+    },
+    {
+        "wasteCode": "16 09 01",
+        "wasteDescription": "permanganates, for example potassium permanganate"
+    },
+    {
+        "wasteCode": "16 09 02",
+        "wasteDescription": "chromates, for example potassium chromate, potassium or sodium dichromate"
+    },
+    {
+        "wasteCode": "16 09 03",
+        "wasteDescription": "peroxides, for example hydrogen peroxide"
+    },
+    {
+        "wasteCode": "16 09 04",
+        "wasteDescription": "oxidising substances, not otherwise specified"
+    },
+    {
+        "wasteCode": "16 10 01",
+        "wasteDescription": "aqueous liquid wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 10 02",
+        "wasteDescription": "aqueous liquid wastes other than those mentioned in 16 10 01"
+    },
+    {
+        "wasteCode": "16 10 03",
+        "wasteDescription": "aqueous concentrates containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 10 04",
+        "wasteDescription": "aqueous concentrates other than those mentioned in 16 10 03"
+    },
+    {
+        "wasteCode": "16 11 01",
+        "wasteDescription": "carbon-based linings and refractories from metallurgical processes containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 11 02",
+        "wasteDescription": "carbon-based linings and refractories from metallurgical processes other than those mentioned in 16 11 01"
+    },
+    {
+        "wasteCode": "16 11 03",
+        "wasteDescription": "other linings and refractories from metallurgical processes containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 11 04",
+        "wasteDescription": "other linings and refractories from metallurgical processes other than those mentioned in 16 11 03"
+    },
+    {
+        "wasteCode": "16 11 05",
+        "wasteDescription": "linings and refractories from non-metallurgical processes containing hazardous substances"
+    },
+    {
+        "wasteCode": "16 11 06",
+        "wasteDescription": "linings and refractories from non-metallurgical processes other than those mentioned in 16 11 05"
+    },
+    {
+        "wasteCode": "17 01 01",
+        "wasteDescription": "concrete"
+    },
+    {
+        "wasteCode": "17 01 02",
+        "wasteDescription": "bricks"
+    },
+    {
+        "wasteCode": "17 01 03",
+        "wasteDescription": "tiles and ceramics"
+    },
+    {
+        "wasteCode": "17 01 06",
+        "wasteDescription": "mixtures of, or separate fractions of concrete, bricks, tiles and ceramics containing hazardous substances"
+    },
+    {
+        "wasteCode": "17 01 07",
+        "wasteDescription": "mixtures of concrete, bricks, tiles and ceramics other than those mentioned in 17 01 06"
+    },
+    {
+        "wasteCode": "17 02 01",
+        "wasteDescription": "wood"
+    },
+    {
+        "wasteCode": "17 02 02",
+        "wasteDescription": "glass"
+    },
+    {
+        "wasteCode": "17 02 03",
+        "wasteDescription": "Plastic"
+    },
+    {
+        "wasteCode": "17 02 04",
+        "wasteDescription": "glass, plastic and wood containing or contaminated with hazardous substances"
+    },
+    {
+        "wasteCode": "17 03 01",
+        "wasteDescription": "bituminous mixtures containing coal tar"
+    },
+    {
+        "wasteCode": "17 03 02",
+        "wasteDescription": "bituminous mixtures other than those mentioned in 17 03 01"
+    },
+    {
+        "wasteCode": "17 03 03",
+        "wasteDescription": "coal tar and tarred products"
+    },
+    {
+        "wasteCode": "17 04 01",
+        "wasteDescription": "copper, bronze, brass"
+    },
+    {
+        "wasteCode": "17 04 02",
+        "wasteDescription": "aluminium"
+    },
+    {
+        "wasteCode": "17 04 03",
+        "wasteDescription": "lead"
+    },
+    {
+        "wasteCode": "17 04 04",
+        "wasteDescription": "zinc"
+    },
+    {
+        "wasteCode": "17 04 05",
+        "wasteDescription": "iron and steel"
+    },
+    {
+        "wasteCode": "17 04 06",
+        "wasteDescription": "tin"
+    },
+    {
+        "wasteCode": "17 04 07",
+        "wasteDescription": "mixed metals"
+    },
+    {
+        "wasteCode": "17 04 09",
+        "wasteDescription": "metal waste contaminated with hazardous substances"
+    },
+    {
+        "wasteCode": "17 04 10",
+        "wasteDescription": "cables containing oil, coal tar and other hazardous substances"
+    },
+    {
+        "wasteCode": "17 04 11",
+        "wasteDescription": "cables other than those mentioned in 17 04 10"
+    },
+    {
+        "wasteCode": "17 05 03",
+        "wasteDescription": "soil and stones containing hazardous substances"
+    },
+    {
+        "wasteCode": "17 05 04",
+        "wasteDescription": "soil and stones other than those mentioned in 17 05 03"
+    },
+    {
+        "wasteCode": "17 05 05",
+        "wasteDescription": "dredging spoil containing hazardous substances"
+    },
+    {
+        "wasteCode": "17 05 06",
+        "wasteDescription": "dredging spoil other than those mentioned in 17 05 05"
+    },
+    {
+        "wasteCode": "17 05 07",
+        "wasteDescription": "track ballast containing hazardous substances"
+    },
+    {
+        "wasteCode": "17 05 08",
+        "wasteDescription": "track ballast other than those mentioned in 17 05 07"
+    },
+    {
+        "wasteCode": "17 06 01",
+        "wasteDescription": "insulation materials containing asbestos"
+    },
+    {
+        "wasteCode": "17 06 03",
+        "wasteDescription": "other insulation materials consisting of or containing hazardous substances"
+    },
+    {
+        "wasteCode": "17 06 04",
+        "wasteDescription": "insulation materials other than those mentioned in 17 06 01 and 17 06 03"
+    },
+    {
+        "wasteCode": "17 06 05",
+        "wasteDescription": "construction materials containing asbestos"
+    },
+    {
+        "wasteCode": "17 08 01",
+        "wasteDescription": "gypsum-based construction materials contaminated with hazardous substances"
+    },
+    {
+        "wasteCode": "17 08 02",
+        "wasteDescription": "gypsum-based construction materials other than those mentioned in 17 08 01"
+    },
+    {
+        "wasteCode": "17 09 01",
+        "wasteDescription": "construction and demolition wastes containing mercury"
+    },
+    {
+        "wasteCode": "17 09 02",
+        "wasteDescription": "construction and demolition wastes containing PCB (for example PCB-containing sealants, PCB-containing resin-based floorings, PCB-containing sealed glazing units, PCB-containing capacitors)"
+    },
+    {
+        "wasteCode": "17 09 03",
+        "wasteDescription": "other construction and demolition wastes (including mixed wastes) containing hazardous substances"
+    },
+    {
+        "wasteCode": "17 09 04",
+        "wasteDescription": "mixed construction and demolition wastes other than those mentioned in 17 09 01, 17 09 02 and 17 09 03"
+    },
+    {
+        "wasteCode": "18 01 01",
+        "wasteDescription": "sharps (except 18 01 03)"
+    },
+    {
+        "wasteCode": "18 01 02",
+        "wasteDescription": "Body parts and organs including blood bags and blood preserves (except 18 01 03)"
+    },
+    {
+        "wasteCode": "18 01 03",
+        "wasteDescription": "wastes whose collection and disposal is subject to special requirements in order to prevent infection"
+    },
+    {
+        "wasteCode": "18 01 04",
+        "wasteDescription": "wastes whose collection and disposal is not subject to special requirements in order to prevent infection(for example dressings, plaster casts, linen, disposable clothing, diapers)"
+    },
+    {
+        "wasteCode": "18 01 06",
+        "wasteDescription": "chemicals consisting of or containing hazardous substances"
+    },
+    {
+        "wasteCode": "18 01 07",
+        "wasteDescription": "chemicals other than those mentioned in 18 01 06"
+    },
+    {
+        "wasteCode": "18 01 08",
+        "wasteDescription": "cytotoxic and cytostatic medicines"
+    },
+    {
+        "wasteCode": "18 01 09",
+        "wasteDescription": "medicines other than those mentioned in 18 01 08"
+    },
+    {
+        "wasteCode": "18 01 10",
+        "wasteDescription": "amalgam waste from dental care"
+    },
+    {
+        "wasteCode": "18 02 01",
+        "wasteDescription": "sharps (except 18 02 02)"
+    },
+    {
+        "wasteCode": "18 02 02",
+        "wasteDescription": "wastes whose collection and disposal is subject to special requirements in order to prevent infection"
+    },
+    {
+        "wasteCode": "18 02 03",
+        "wasteDescription": "wastes whose collection and disposal is not subject to special requirements in order to prevent infection"
+    },
+    {
+        "wasteCode": "18 02 05",
+        "wasteDescription": "chemicals consisting of or containing hazardous substances"
+    },
+    {
+        "wasteCode": "18 02 06",
+        "wasteDescription": "chemicals other than those mentioned in 18 02 05"
+    },
+    {
+        "wasteCode": "18 02 07",
+        "wasteDescription": "cytotoxic and cytostatic medicines"
+    },
+    {
+        "wasteCode": "18 02 08",
+        "wasteDescription": "medicines other than those mentioned in 18 02 07"
+    },
+    {
+        "wasteCode": "19 01 02",
+        "wasteDescription": "ferrous materials removed from bottom ash"
+    },
+    {
+        "wasteCode": "19 01 05",
+        "wasteDescription": "filter cake from gas treatment"
+    },
+    {
+        "wasteCode": "19 01 06",
+        "wasteDescription": "aqueous liquid wastes from gas treatment and other aqueous liquid wastes"
+    },
+    {
+        "wasteCode": "19 01 07",
+        "wasteDescription": "solid wastes from gas treatment"
+    },
+    {
+        "wasteCode": "19 01 10",
+        "wasteDescription": "spent activated carbon from flue-gas treatment"
+    },
+    {
+        "wasteCode": "19 01 11",
+        "wasteDescription": "bottom ash and slag containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 01 12",
+        "wasteDescription": "bottom ash and slag other than those mentioned in 19 01 11"
+    },
+    {
+        "wasteCode": "19 01 13",
+        "wasteDescription": "fly ash containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 01 14",
+        "wasteDescription": "fly ash other than those mentioned in 19 01 13"
+    },
+    {
+        "wasteCode": "19 01 15",
+        "wasteDescription": "boiler dust containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 01 16",
+        "wasteDescription": "boiler dust other than those mentioned in 19 01 15"
+    },
+    {
+        "wasteCode": "19 01 17",
+        "wasteDescription": "pyrolysis wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 01 18",
+        "wasteDescription": "pyrolysis wastes other than those mentioned in 19 01 17"
+    },
+    {
+        "wasteCode": "19 01 19",
+        "wasteDescription": "sands from fluidised beds"
+    },
+    {
+        "wasteCode": "19 01 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "19 02 03",
+        "wasteDescription": "premixed wastes composed only of non-hazardous wastes"
+    },
+    {
+        "wasteCode": "19 02 04",
+        "wasteDescription": "premixed wastes composed of at least one hazardous waste"
+    },
+    {
+        "wasteCode": "19 02 05",
+        "wasteDescription": "sludges from physico/chemical treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 02 06",
+        "wasteDescription": "sludges from physico/chemical treatment other than those mentioned in 19 02 05"
+    },
+    {
+        "wasteCode": "19 02 07",
+        "wasteDescription": "oil and concentrates from separation"
+    },
+    {
+        "wasteCode": "19 02 08",
+        "wasteDescription": "liquid combustible wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 02 09",
+        "wasteDescription": "solid combustible wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 02 10",
+        "wasteDescription": "combustible wastes other than those mentioned in 19 02 08 and 19 02 09"
+    },
+    {
+        "wasteCode": "19 02 11",
+        "wasteDescription": "other wastes containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 02 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "19 03 04",
+        "wasteDescription": "wastes marked as hazardous, partly stabilised other than 19 03 08"
+    },
+    {
+        "wasteCode": "19 03 05",
+        "wasteDescription": "stabilised wastes other than those mentioned in 19 03 04"
+    },
+    {
+        "wasteCode": "19 03 06",
+        "wasteDescription": "wastes marked as hazardous, solidified"
+    },
+    {
+        "wasteCode": "19 03 07",
+        "wasteDescription": "solidified wastes other than those mentioned in 19 03 06"
+    },
+    {
+        "wasteCode": "19 03 08",
+        "wasteDescription": "partly stabilised mercury"
+    },
+    {
+        "wasteCode": "19 04 01",
+        "wasteDescription": "vitrified waste"
+    },
+    {
+        "wasteCode": "19 04 02",
+        "wasteDescription": "fly ash and other flue-gas treatment wastes"
+    },
+    {
+        "wasteCode": "19 04 03",
+        "wasteDescription": "non-vitrified solid phase"
+    },
+    {
+        "wasteCode": "19 04 04",
+        "wasteDescription": "aqueous liquid wastes from vitrified waste tempering"
+    },
+    {
+        "wasteCode": "19 05 01",
+        "wasteDescription": "non-composted fraction of municipal and similar wastes"
+    },
+    {
+        "wasteCode": "19 05 02",
+        "wasteDescription": "non-composted fraction of animal and vegetable waste"
+    },
+    {
+        "wasteCode": "19 05 03",
+        "wasteDescription": "off-specification compost"
+    },
+    {
+        "wasteCode": "19 05 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "19 06 03",
+        "wasteDescription": "liquor from anaerobic treatment of municipal waste"
+    },
+    {
+        "wasteCode": "19 06 04",
+        "wasteDescription": "digestate from anaerobic treatment of municipal waste"
+    },
+    {
+        "wasteCode": "19 06 05",
+        "wasteDescription": "liquor from anaerobic treatment of animal and vegetable waste"
+    },
+    {
+        "wasteCode": "19 06 06",
+        "wasteDescription": "digestate from anaerobic treatment of animal and vegetable waste"
+    },
+    {
+        "wasteCode": "19 06 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "19 07 02",
+        "wasteDescription": "landfill leachate containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 07 03",
+        "wasteDescription": "landfill leachate other than those mentioned in 19 07 02"
+    },
+    {
+        "wasteCode": "19 08 01",
+        "wasteDescription": "screenings"
+    },
+    {
+        "wasteCode": "19 08 02",
+        "wasteDescription": "waste from desanding"
+    },
+    {
+        "wasteCode": "19 08 05",
+        "wasteDescription": "sludges from treatment of urban waste water"
+    },
+    {
+        "wasteCode": "19 08 05 WET",
+        "wasteDescription": "Wet sludge"
+    },
+    {
+        "wasteCode": "19 08 05 Dry",
+        "wasteDescription": "Dried sludge"
+    },
+    {
+        "wasteCode": "19 08 06",
+        "wasteDescription": "saturated or spent ion exchange resins"
+    },
+    {
+        "wasteCode": "19 08 07",
+        "wasteDescription": "solutions and sludges from regeneration of ion exchangers"
+    },
+    {
+        "wasteCode": "19 08 08",
+        "wasteDescription": "membrane system waste containing heavy metals"
+    },
+    {
+        "wasteCode": "19 08 09",
+        "wasteDescription": "grease and oil mixture from oil/water separation containing only edible oil and fats"
+    },
+    {
+        "wasteCode": "19 08 10",
+        "wasteDescription": "grease and oil mixture from oil/water separation other than those mentioned in 19 08 09"
+    },
+    {
+        "wasteCode": "19 08 11",
+        "wasteDescription": "sludges containing hazardous substances from biological treatment of industrial waste water"
+    },
+    {
+        "wasteCode": "19 08 12",
+        "wasteDescription": "sludges from biological treatment of industrial waste water other than those mentioned in 19 08 11"
+    },
+    {
+        "wasteCode": "19 08 13",
+        "wasteDescription": "sludges containing hazardous substances from other treatment of industrial waste water"
+    },
+    {
+        "wasteCode": "19 08 14",
+        "wasteDescription": "sludges from other treatment of industrial waste water other than those mentioned in 19 08 13"
+    },
+    {
+        "wasteCode": "19 08 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "19 09 01",
+        "wasteDescription": "solid waste from primary filtration and screenings"
+    },
+    {
+        "wasteCode": "19 09 02",
+        "wasteDescription": "sludges from water clarification"
+    },
+    {
+        "wasteCode": "19 09 03",
+        "wasteDescription": "sludges from decarbonation"
+    },
+    {
+        "wasteCode": "19 09 04",
+        "wasteDescription": "spent activated carbon"
+    },
+    {
+        "wasteCode": "19 09 05",
+        "wasteDescription": "saturated or spent ion exchange resins"
+    },
+    {
+        "wasteCode": "19 09 06",
+        "wasteDescription": "solutions and sludges from regeneration of ion exchangers"
+    },
+    {
+        "wasteCode": "19 09 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "19 10 02",
+        "wasteDescription": "non-ferrous waste"
+    },
+    {
+        "wasteCode": "19 10 03",
+        "wasteDescription": "fluff-light fraction and dust containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 10 04",
+        "wasteDescription": "fluff-light fraction and dust other than those mentioned in 19 10 03"
+    },
+    {
+        "wasteCode": "19 10 05",
+        "wasteDescription": "other fractions containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 10 06",
+        "wasteDescription": "other fractions other than those mentioned in 19 10 05"
+    },
+    {
+        "wasteCode": "19 11 01",
+        "wasteDescription": "spent filter clays"
+    },
+    {
+        "wasteCode": "19 11 02",
+        "wasteDescription": "acid tars"
+    },
+    {
+        "wasteCode": "19 11 03",
+        "wasteDescription": "aqueous liquid wastes"
+    },
+    {
+        "wasteCode": "19 11 04",
+        "wasteDescription": "wastes from cleaning of fuel with bases"
+    },
+    {
+        "wasteCode": "19 11 05",
+        "wasteDescription": "sludges from on-site effluent treatment containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 11 06",
+        "wasteDescription": "sludges from on-site effluent treatment other than those mentioned in 19 11 05"
+    },
+    {
+        "wasteCode": "19 11 07",
+        "wasteDescription": "wastes from flue-gas cleaning"
+    },
+    {
+        "wasteCode": "19 11 99",
+        "wasteDescription": "wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "19 12 01",
+        "wasteDescription": "paper and cardboard"
+    },
+    {
+        "wasteCode": "19 12 02",
+        "wasteDescription": "ferrous metal"
+    },
+    {
+        "wasteCode": "19 12 03",
+        "wasteDescription": "non-ferrous metal"
+    },
+    {
+        "wasteCode": "19 12 04",
+        "wasteDescription": "plastic and rubber"
+    },
+    {
+        "wasteCode": "19 12 05",
+        "wasteDescription": "glass"
+    },
+    {
+        "wasteCode": "19 12 06",
+        "wasteDescription": "wood containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 12 07",
+        "wasteDescription": "wood other than that mentioned in 19 12 06"
+    },
+    {
+        "wasteCode": "19 12 08",
+        "wasteDescription": "textiles"
+    },
+    {
+        "wasteCode": "19 12 09",
+        "wasteDescription": "minerals (for example sand, stones)"
+    },
+    {
+        "wasteCode": "19 12 10",
+        "wasteDescription": "combustible waste (refuse derived fuel)"
+    },
+    {
+        "wasteCode": "19 12 11",
+        "wasteDescription": "other wastes (including mixtures of materials) from mechanical treatment of waste containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 12 12",
+        "wasteDescription": "other wastes (including mixtures of materials) from mechanical treatment of wastes other than those mentioned in 19 12 11"
+    },
+    {
+        "wasteCode": "19 13 01",
+        "wasteDescription": "solid wastes from soil remediation containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 13 02",
+        "wasteDescription": "solid wastes from soil remediation other than those mentioned in 19 13 01"
+    },
+    {
+        "wasteCode": "19 13 03",
+        "wasteDescription": "sludges from soil remediation containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 13 04",
+        "wasteDescription": "sludges from soil remediation other than those mentioned in 19 13 03"
+    },
+    {
+        "wasteCode": "19 13 05",
+        "wasteDescription": "sludges from groundwater remediation containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 13 06",
+        "wasteDescription": "sludges from groundwater remediation other than those mentioned in 19 13 05"
+    },
+    {
+        "wasteCode": "19 13 07",
+        "wasteDescription": "aqueous liquid wastes and aqueous concentrates from groundwater remediation containing hazardous substances"
+    },
+    {
+        "wasteCode": "19 13 08",
+        "wasteDescription": "aqueous liquid wastes and aqueous concentrates from groundwater remediation other than those mentioned in 19 13 07"
+    },
+    {
+        "wasteCode": "20 01 01",
+        "wasteDescription": "paper and cardboard"
+    },
+    {
+        "wasteCode": "20 01 02",
+        "wasteDescription": "glass"
+    },
+    {
+        "wasteCode": "20 01 02 DOM",
+        "wasteDescription": "glass - domestic"
+    },
+    {
+        "wasteCode": "20 01 02 COM",
+        "wasteDescription": "glass - Commercial/Non-household"
+    },
+    {
+        "wasteCode": "20 01 02 BULK",
+        "wasteDescription": "glass - Bulk loads from waste facilities"
+    },
+    {
+        "wasteCode": "20 01 08",
+        "wasteDescription": "biodegradable kitchen and canteen waste"
+    },
+    {
+        "wasteCode": "20 01 08 A DOM",
+        "wasteDescription": "Household biodegradable kitchen & canteen waste"
+    },
+    {
+        "wasteCode": "20 01 08 B COM",
+        "wasteDescription": "Non-household biodegradable kitchen & canteen waste"
+    },
+    {
+        "wasteCode": "20 01 08 A BULK",
+        "wasteDescription": "Food/Biowaste Bulk loads from waste facilities"
+    },
+    {
+        "wasteCode": "20 01 10",
+        "wasteDescription": "clothes"
+    },
+    {
+        "wasteCode": "20 01 11",
+        "wasteDescription": "textiles"
+    },
+    {
+        "wasteCode": "20 01 13",
+        "wasteDescription": "solvents"
+    },
+    {
+        "wasteCode": "20 01 14",
+        "wasteDescription": "acids"
+    },
+    {
+        "wasteCode": "20 01 15",
+        "wasteDescription": "alkalines"
+    },
+    {
+        "wasteCode": "20 01 17",
+        "wasteDescription": "photochemicals"
+    },
+    {
+        "wasteCode": "20 01 19",
+        "wasteDescription": "pesticides"
+    },
+    {
+        "wasteCode": "20 01 21",
+        "wasteDescription": "fluorescent tubes and other mercury-containing waste"
+    },
+    {
+        "wasteCode": "20 01 23",
+        "wasteDescription": "discarded equipment containing chlorofluorocarbons"
+    },
+    {
+        "wasteCode": "20 01 25",
+        "wasteDescription": "edible oil and fat"
+    },
+    {
+        "wasteCode": "20 01 25 CKO",
+        "wasteDescription": "CKO Edible oil and fat (Cooking oil in barrels)"
+    },
+    {
+        "wasteCode": "20 01 25 GTW",
+        "wasteDescription": "GTW Edible oil and fat (Grease Trap Waste)"
+    },
+    {
+        "wasteCode": "20 01 26",
+        "wasteDescription": "oil and fat other than those mentioned in 20 01 25"
+    },
+    {
+        "wasteCode": "20 01 27",
+        "wasteDescription": "paint, inks, adhesives and resins containing hazardous substances"
+    },
+    {
+        "wasteCode": "20 01 28",
+        "wasteDescription": "paint, inks, adhesives and resins other than those mentioned in 20 01 27"
+    },
+    {
+        "wasteCode": "20 01 29",
+        "wasteDescription": "detergents containing hazardous substances"
+    },
+    {
+        "wasteCode": "20 01 30",
+        "wasteDescription": "detergents other than those mentioned in 20 01 29"
+    },
+    {
+        "wasteCode": "20 01 31",
+        "wasteDescription": "cytotoxic and cytostatic medicines"
+    },
+    {
+        "wasteCode": "20 01 32",
+        "wasteDescription": "medicines other than those mentioned in 20 01 31"
+    },
+    {
+        "wasteCode": "20 01 33",
+        "wasteDescription": "batteries and accumulators included in 16 06 01, 16 06 02 or 16 06 03 and unsorted batteries and accumulators containing these batteries"
+    },
+    {
+        "wasteCode": "20 01 34",
+        "wasteDescription": "batteries and accumulators other than those mentioned in 20 01 33"
+    },
+    {
+        "wasteCode": "20 01 35",
+        "wasteDescription": "discarded electrical and electronic equipment other than those mentioned in 20 01 21 and 20 01 23 containing hazardous components"
+    },
+    {
+        "wasteCode": "20 01 35*A",
+        "wasteDescription": "Household waste tvs and monitors, flatscreens"
+    },
+    {
+        "wasteCode": "20 01 35*B",
+        "wasteDescription": "Household waste tvs and monitors, cathode ray tubes"
+    },
+    {
+        "wasteCode": "20 01 35*C",
+        "wasteDescription": "Household waste light fittings, hazardous"
+    },
+    {
+        "wasteCode": "20 01 35*D",
+        "wasteDescription": "Household other waste electronic and electrical equipment, hazardous"
+    },
+    {
+        "wasteCode": "20 01 36",
+        "wasteDescription": "discarded electrical and electronic equipment other than those mentioned in 20 01 21, 20 01 23 and 20 01 35"
+    },
+    {
+        "wasteCode": "20 01 36A",
+        "wasteDescription": "Household waste white goods"
+    },
+    {
+        "wasteCode": "20 01 36B",
+        "wasteDescription": "Household waste light fittings, non-hazardous"
+    },
+    {
+        "wasteCode": "20 01 36C",
+        "wasteDescription": "Household waste photovoltaic panels"
+    },
+    {
+        "wasteCode": "20 01 36D",
+        "wasteDescription": "Household other waste electronic and electrical equipment, non-hazardous"
+    },
+    {
+        "wasteCode": "20 01 37",
+        "wasteDescription": "wood containing hazardous substances"
+    },
+    {
+        "wasteCode": "20 01 38",
+        "wasteDescription": "wood other than that mentioned in 20 01 37"
+    },
+    {
+        "wasteCode": "20 01 39",
+        "wasteDescription": "plastics"
+    },
+    {
+        "wasteCode": "20 01 40",
+        "wasteDescription": "metals"
+    },
+    {
+        "wasteCode": "20 01 40A",
+        "wasteDescription": "Ferrous Metals"
+    },
+    {
+        "wasteCode": "20 01 40B",
+        "wasteDescription": "Non-Ferrous Metals"
+    },
+    {
+        "wasteCode": "20 01 40C",
+        "wasteDescription": "Mixed Metals"
+    },
+    {
+        "wasteCode": "20 01 41",
+        "wasteDescription": "wastes from chimney sweeping"
+    },
+    {
+        "wasteCode": "20 01 99",
+        "wasteDescription": "other fractions not otherwise specified"
+    },
+    {
+        "wasteCode": "20 02 01",
+        "wasteDescription": "biodegradable waste"
+    },
+    {
+        "wasteCode": "20 02 02",
+        "wasteDescription": "soil and stones"
+    },
+    {
+        "wasteCode": "20 02 03",
+        "wasteDescription": "other non-biodegradable wastes"
+    },
+    {
+        "wasteCode": "20 03 01",
+        "wasteDescription": "mixed municipal waste"
+    },
+    {
+        "wasteCode": "20 03 01 MDRDOM",
+        "wasteDescription": "mixed Dry Recyclables Domestic"
+    },
+    {
+        "wasteCode": "20 03 01 MDRCOM",
+        "wasteDescription": "mixed Dry Recyclables Commercial"
+    },
+    {
+        "wasteCode": "20 03 01 MDRBULK",
+        "wasteDescription": "mixed Dry Recyclables Bulk haulage from waste facilities"
+    },
+    {
+        "wasteCode": "20 03 01 RESDOM",
+        "wasteDescription": "residual Domestic"
+    },
+    {
+        "wasteCode": "20 03 01 RESCOM",
+        "wasteDescription": "residual Commercial"
+    },
+    {
+        "wasteCode": "20 03 01 RESBULK",
+        "wasteDescription": "residual Bulk haulage from waste facilities"
+    },
+    {
+        "wasteCode": "20 03 02",
+        "wasteDescription": "waste from markets"
+    },
+    {
+        "wasteCode": "20 03 03",
+        "wasteDescription": "street-cleaning residues"
+    },
+    {
+        "wasteCode": "20 03 04",
+        "wasteDescription": "septic tank sludge"
+    },
+    {
+        "wasteCode": "20 03 06",
+        "wasteDescription": "waste from sewage cleaning"
+    },
+    {
+        "wasteCode": "20 03 07",
+        "wasteDescription": "bulky waste"
+    },
+    {
+        "wasteCode": "20 03 07 A DOM",
+        "wasteDescription": "bulky Waste Domestic"
+    },
+    {
+        "wasteCode": "20 03 07 B COM",
+        "wasteDescription": "bulky Waste Commercial"
+    },
+    {
+        "wasteCode": "20 03 07 BULK",
+        "wasteDescription": "bulk loads of Bulky Waste from waste facilities"
+    },
+    {
+        "wasteCode": "20 03 99",
+        "wasteDescription": "municipal wastes not otherwise specified"
+    },
+    {
+        "wasteCode": "20 03 99A",
+        "wasteDescription": "Litter and street bins (Local Authority own collections only)"
+    },
+    {
+        "wasteCode": "20 03 99B",
+        "wasteDescription": "Municipal source waste similar to Residual (Black Bin) Waste"
+    }
+]

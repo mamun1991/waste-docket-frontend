@@ -1,0 +1,14 @@
+{
+    "billing_information": "Billing information",
+    "seats_used": "Seats used",
+    "seats_available": "Seats available",
+    "upgrade": "upgrade",
+    "downgrade": "downgrade",
+    "are_you_sure": "Are you sure?",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "create_subscription": "Create subscription",
+    "choose_plan": "Choose plan",
+    "subscribe": "Subscribe",
+    "subscribing": "Subscribing"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="reports" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128"
+	 style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#007337;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#007337;}
+</style>
+<g>
+	<path class="st0" d="M26,8.3h78.6v111.5H23.5V8.3H26z M99.5,13.3h-71v101.5h71.1L99.5,13.3L99.5,13.3z"/>
+	<g>
+		<path class="st1" d="M37.8,102.9h32.5v4.3H37.8V102.9z M37.8,92.5h52.5v4.3H37.8V92.5z M37.8,82.1h52.5v4.3H37.8V82.1z M37.8,71.8
+			h52.5v4.3H37.8V71.8z"/>
+		<path class="st1" d="M87,43c0,12.7-10.3,23-23,23S41,55.7,41,43s10.3-23,23-23v23H87z"/>
+		<path class="st1" d="M67,20.2c10.3,1.4,18.4,9.5,19.8,19.8H67V20.2z"/>
+	</g>
+</g>
+</svg>

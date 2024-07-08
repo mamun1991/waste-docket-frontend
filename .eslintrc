@@ -1,0 +1,47 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "mongo": true
+  },
+  "extends": ["prettier", "next"],
+  "ignorePatterns": [
+    "next.config.js",
+    "tailwind.config.js",
+    "[...nextauth]",
+    "src/graphql/gen/*.ts"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module",
+    "project": ["./tsconfig.json", "./tsconfig.eslint.json"]
+  },
+  "plugins": ["@typescript-eslint", "prettier"],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ],
+    "no-unused-vars": "warn",
+    "no-console": "off",
+    "func-names": "off",
+    "no-process-exit": "off",
+    "object-shorthand": "off",
+    "class-methods-use-this": "off",
+    "@next/next/no-img-element": "off",
+    "@next/next/no-html-link-for-pages": "off",
+    "import/no-cycle": "off",
+    "no-nested-ternary": "off",
+    "no-unneeded-ternary": "off",
+    "no-underscore-dangle": "off",
+    "no-plusplus": "off",
+    "@typescript-eslint/no-unused-expressions": "off",
+    "no-param-reassign": 0,
+    "no-control-regex": "off",
+    "import/prefer-default-export": "off",
+    "import/order": "off"
+  }
+}
